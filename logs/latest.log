@@ -251,3 +251,15 @@ java.lang.RuntimeException: Fabric permissions version 0.4.1 is not supported. P
 [23:11:09] [Server thread/INFO]: Loading Xaero's Minimap - Stage 2/2 (Server)
 [23:11:09] [Server thread/INFO]: Loading Xaero's World Map - Stage 2/2 (Server)
 [23:12:09] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[23:21:24] [Netty Epoll Server IO #5/INFO]: Policy of SZYZBG is: online
+[23:21:45] [Server thread/WARN]: Method overwrite conflict for setExhaustion in carpet.mixins.json:FoodData_scarpetMixin from mod carpet, previously written by squeek.appleskin.mixin.HungerManagerMixin. Skipping method.
+[23:21:45] [Server thread/INFO]: SZYZBG[/110.65.147.230:60840] logged in with entity id 54 at (-393.5591148719962, 64.0, -2670.600177738065)
+[23:21:45] [Server thread/INFO]: SZYZBG joined the game
+[23:21:46] [Server thread/INFO]: Syncmatica client joining with local version 0.3.15 and client version 0.3.15
+[23:21:46] [Server thread/INFO]: Player SZYZBG joined with a matching carpet client
+[23:21:47] [Server thread/INFO]: [ShulkerBoxTooltip] SZYZBG: protocol version: 2.0
+[23:21:47] [Server thread/INFO]: [ShulkerBoxTooltip Plugins] Loading 1 plugin: shulkerboxtooltip
+[23:21:47] [Server thread/INFO]: [ShulkerBoxTooltip Plugins] Registered 51 providers for mod shulkerboxtooltip
+[23:21:54] [Server thread/INFO]: SZYZBG lost connection: Disconnected
+[23:21:54] [Server thread/INFO]: SZYZBG left the game
+[23:22:54] [Server thread/INFO]: Server empty for 60 seconds, pausing
