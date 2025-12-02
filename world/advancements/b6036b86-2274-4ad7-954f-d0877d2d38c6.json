@@ -19,6 +19,7 @@
       "minecraft:cherry_grove": "2025-12-01 12:31:47 +0800",
       "minecraft:sunflower_plains": "2025-12-01 12:13:47 +0800",
       "minecraft:birch_forest": "2025-11-30 00:34:17 +0800",
+      "minecraft:bamboo_jungle": "2025-12-02 22:55:47 +0800",
       "minecraft:plains": "2025-11-30 00:30:42 +0800"
     },
     "done": false
@@ -1600,6 +1601,7 @@
     "criteria": {
       "minecraft:cow": "2025-12-01 17:33:07 +0800",
       "minecraft:wolf": "2025-12-01 13:10:12 +0800",
+      "minecraft:panda": "2025-12-02 22:58:22 +0800",
       "minecraft:turtle": "2025-12-02 10:55:50 +0800"
     },
     "done": false
@@ -2723,6 +2725,60 @@
   "minecraft:adventure/lightning_rod_with_villager_no_fire": {
     "criteria": {
       "lightning_rod_with_villager_no_fire": "2025-12-02 15:57:11 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-12-02 22:44:02 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-12-02 22:44:02 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-12-02 22:44:02 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-12-02 22:44:02 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-12-02 22:44:02 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2025-12-02 22:55:46 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2025-12-02 22:55:46 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-12-02 22:44:02 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2025-12-02 22:55:46 +0800"
     },
     "done": true
   },

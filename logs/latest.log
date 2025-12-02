@@ -682,3 +682,34 @@ io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/min
 [21:56:32] [Server thread/INFO]: fetiet lost connection: Disconnected
 [21:56:32] [Server thread/INFO]: fetiet left the game
 [21:57:32] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[22:37:34] [Netty Epoll Server IO #11/INFO]: Policy of fetiet is: online
+[22:37:58] [Server thread/INFO]: fetiet[/116.6.234.162:43139] logged in with entity id 116316 at (-391.5084676577998, 63.0, -2659.563195037558)
+[22:37:58] [Server thread/INFO]: fetiet joined the game
+[22:37:59] [Server thread/INFO]: Syncmatica client joining with local version 0.3.15 and client version 0.3.15
+[22:38:00] [Server thread/INFO]: Player fetiet joined with a matching carpet client
+[22:38:00] [Server thread/INFO]: [ShulkerBoxTooltip] fetiet: protocol version: 2.0
+[22:52:07] [Server thread/INFO]: Starting search: 64 sample space, 50000 max samples, 10000 max radius
+[22:52:07] [Server thread/INFO]: Search succeeded: 1072 radius, 485 samples
+[22:59:31] [Server thread/INFO]: fetiet lost connection: Disconnected
+[22:59:31] [Server thread/INFO]: fetiet left the game
+[23:00:31] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[23:05:25] [Server thread/INFO]: Stopping the server
+[23:05:25] [Server thread/INFO]: Stopping server
+[23:05:25] [Server thread/INFO]: Saving players
+[23:05:25] [Server thread/INFO]: Saving worlds
+[23:05:25] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[23:05:25] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[23:05:25] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[23:05:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23:05:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23:05:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:05:25] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[23:05:25] [C2ME Storage #3/INFO]: Storage thread Thread[#98,C2ME Storage #3,8,main] stopped
+[23:05:25] [C2ME Storage #2/INFO]: Storage thread Thread[#97,C2ME Storage #2,8,main] stopped
+[23:05:25] [C2ME Storage #1/INFO]: Storage thread Thread[#96,C2ME Storage #1,8,main] stopped
+[23:05:25] [C2ME Storage #6/INFO]: Storage thread Thread[#112,C2ME Storage #6,8,main] stopped
+[23:05:25] [C2ME Storage #5/INFO]: Storage thread Thread[#111,C2ME Storage #5,8,main] stopped
+[23:05:25] [C2ME Storage #4/INFO]: Storage thread Thread[#110,C2ME Storage #4,8,main] stopped
+[23:05:25] [C2ME Storage #9/INFO]: Storage thread Thread[#115,C2ME Storage #9,8,main] stopped
+[23:05:25] [C2ME Storage #8/INFO]: Storage thread Thread[#114,C2ME Storage #8,8,main] stopped
+[23:05:25] [C2ME Storage #7/INFO]: Storage thread Thread[#113,C2ME Storage #7,8,main] stopped
