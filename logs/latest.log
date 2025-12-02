@@ -252,3 +252,433 @@ java.lang.RuntimeException: Fabric permissions version 0.4.1 is not supported. P
 [09:51:20] [Server thread/INFO]: Loading Xaero's Minimap - Stage 2/2 (Server)
 [09:51:20] [Server thread/INFO]: Loading Xaero's World Map - Stage 2/2 (Server)
 [09:52:20] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[10:12:31] [Netty Epoll Server IO #0/INFO]: Policy of SZYZBG is: online
+[10:12:48] [Server thread/WARN]: Method overwrite conflict for setExhaustion in carpet.mixins.json:FoodData_scarpetMixin from mod carpet, previously written by squeek.appleskin.mixin.HungerManagerMixin. Skipping method.
+[10:12:48] [Server thread/INFO]: SZYZBG[/110.65.147.230:58800] logged in with entity id 114 at (-391.7157972990276, 69.5, -2671.097287935208)
+[10:12:48] [Server thread/INFO]: SZYZBG joined the game
+[10:12:49] [Server thread/INFO]: Syncmatica client joining with local version 0.3.15 and client version 0.3.15
+[10:12:50] [Server thread/INFO]: Player SZYZBG joined with a matching carpet client
+[10:12:50] [Server thread/INFO]: [ShulkerBoxTooltip] SZYZBG: protocol version: 2.0
+[10:12:50] [Server thread/INFO]: [ShulkerBoxTooltip Plugins] Loading 1 plugin: shulkerboxtooltip
+[10:12:50] [Server thread/INFO]: [ShulkerBoxTooltip Plugins] Registered 51 providers for mod shulkerboxtooltip
+[10:12:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2068ms or 41 ticks behind
+[10:16:29] [Server thread/INFO]: SZYZBG fell from a high place
+[10:17:06] [Server thread/INFO]: SZYZBG was slain by Zombified Piglin
+[10:19:00] [Server thread/INFO]: SZYZBG was slain by Zombified Piglin
+[10:20:13] [Server thread/INFO]: SZYZBG was slain by Zombified Piglin
+[10:21:00] [Netty Epoll Server IO #2/INFO]: Policy of fetiet is: online
+[10:21:19] [Server thread/INFO]: fetiet[/116.6.234.162:42644] logged in with entity id 3273 at (-423.80291291137985, 63.93883597911215, -2647.654215209162)
+[10:21:19] [Server thread/INFO]: fetiet joined the game
+[10:21:20] [Server thread/INFO]: Syncmatica client joining with local version 0.3.15 and client version 0.3.15
+[10:21:21] [Server thread/INFO]: Player fetiet joined with a matching carpet client
+[10:21:21] [Server thread/INFO]: [ShulkerBoxTooltip] fetiet: protocol version: 2.0
+[10:21:43] [Server thread/INFO]: SZYZBG was slain by Zombified Piglin
+[10:24:12] [Server thread/INFO]: SZYZBG was slain by Zombified Piglin
+[10:26:23] [Server thread/INFO]: SZYZBG was slain by Zombified Piglin
+[10:26:50] [Server thread/INFO]: SZYZBG was slain by Zombified Piglin
+[10:27:51] [Server thread/INFO]: [SZYZBG: Teleported SZYZBG to fetiet]
+[10:32:28] [Server thread/INFO]: SZYZBG was slain by Zombified Piglin
+[10:33:29] [Server thread/INFO]: fetiet was killed
+[10:33:29] [Server thread/INFO]: [fetiet: Killed fetiet]
+[10:38:12] [Server thread/INFO]: SZYZBG was slain by Zombified Piglin
+[10:38:27] [Server thread/INFO]: SZYZBG lost connection: Disconnected
+[10:38:27] [Server thread/INFO]: SZYZBG left the game
+[10:43:30] [Server thread/INFO]: Starting search: 64 sample space, 50000 max samples, 10000 max radius
+[10:43:30] [Server thread/INFO]: Search succeeded: 1902 radius, 944 samples
+[10:49:24] [Server thread/INFO]: [fetiet: Set the time to 1000]
+[10:58:23] [Server thread/INFO]: [fetiet: Set the time to 1000]
+[11:07:30] [Server thread/INFO]: [fetiet: Set the time to 1000]
+[11:07:53] [Server thread/INFO]: [fetiet: Set the time to 2400000]
+[11:08:08] [Server thread/INFO]: [fetiet: Set the time to 1000]
+[11:36:26] [Server thread/INFO]: fetiet lost connection: Timed out
+[11:36:26] [Server thread/INFO]: fetiet left the game
+[11:36:26] [Server thread/WARN]: handleDisconnection() called twice
+[11:37:26] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[11:41:58] [Netty Epoll Server IO #25/INFO]: Policy of fetiet is: online
+[11:42:14] [Server thread/INFO]: fetiet[/116.6.234.162:42726] logged in with entity id 27595 at (-438.37767451720697, 67.0, -2609.7941865780394)
+[11:42:14] [Server thread/INFO]: fetiet joined the game
+[11:42:14] [Server thread/INFO]: [ShulkerBoxTooltip] fetiet: protocol version: 2.0
+[11:42:14] [Server thread/INFO]: Syncmatica client joining with local version 0.3.15 and client version 0.3.15
+[11:42:14] [Server thread/INFO]: Player fetiet joined with a matching carpet client
+[11:45:43] [Server thread/INFO]: Villager class_1646['Leatherworker'/27574, l='ServerLevel[world]', x=-393.56, y=63.00, z=-2618.82] died, message: 'Leatherworker was slain by Zombie'
+[11:55:20] [Server thread/INFO]: [fetiet: Set the time to 13000]
+[11:55:32] [Server thread/INFO]: fetiet has made the advancement [Total Beelocation]
+[11:55:37] [Server thread/INFO]: [fetiet: Set the time to 1000]
+[12:00:35] [Server thread/INFO]: fetiet has made the advancement [Take Aim]
+[12:05:54] [Server thread/INFO]: fetiet was killed
+[12:05:54] [Server thread/INFO]: [fetiet: Killed fetiet]
+[12:08:40] [Server thread/INFO]: fetiet lost connection: Disconnected
+[12:08:40] [Server thread/INFO]: fetiet left the game
+[12:09:40] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[12:10:40] [Netty Epoll Server IO #28/INFO]: Policy of fetiet is: online
+[12:10:58] [Server thread/INFO]: fetiet[/116.6.234.162:42745] logged in with entity id 33516 at (-438.73485606410486, 63.0, -2620.8547042159566)
+[12:10:58] [Server thread/INFO]: fetiet joined the game
+[12:10:58] [Server thread/INFO]: [ShulkerBoxTooltip] fetiet: protocol version: 2.0
+[12:10:59] [Server thread/INFO]: Syncmatica client joining with local version 0.3.15 and client version 0.3.15
+[12:10:59] [Server thread/INFO]: Player fetiet joined with a matching carpet client
+[12:13:32] [Server thread/INFO]: [fetiet: Set the time to 13000]
+[12:13:47] [Server thread/INFO]: [fetiet: Set the time to 1000]
+[12:19:02] [Server thread/INFO]: fetiet was killed
+[12:19:02] [Server thread/INFO]: [fetiet: Killed fetiet]
+[12:23:47] [Server thread/INFO]: [fetiet: Set the time to 1000]
+[12:27:14] [Server thread/INFO]: [fetiet: Set the time to 13000]
+[12:33:18] [Server thread/INFO]: [fetiet: Summoned new Phantom]
+[12:33:25] [Server thread/INFO]: [fetiet: Set the time to 13000]
+[12:49:34] [Server thread/INFO]: Villager class_1646['Farmer'/35895, l='ServerLevel[world]', x=-387.99, y=62.94, z=-2633.86] died, message: 'Farmer was slain by Drowned'
+[13:23:31] [Server thread/INFO]: fetiet lost connection: Disconnected
+[13:23:31] [Server thread/INFO]: fetiet left the game
+[13:24:31] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[13:27:05] [Netty Epoll Server IO #10/ERROR]: Error sending packet clientbound/minecraft:disconnect
+io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/minecraft:disconnect'
+	at knot/net.minecraft.class_9136.method_56426(class_9136.java:50) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_9136.encode(class_9136.java:14) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2545.method_10838(class_2545.java:26) [server-intermediary.jar:?]
+	at knot/net.minecraft.class_2545.encode(class_2545.java:12) [server-intermediary.jar:?]
+	at knot/io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:107) [netty-codec-4.1.118.Final.jar:?]
+	at knot/io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:893) [netty-transport-4.1.118.Final.jar:?]
+	at knot/io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:875) [netty-transport-4.1.118.Final.jar:?]
+	at knot/io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:984) [netty-transport-4.1.118.Final.jar:?]
+	at knot/io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:868) [netty-transport-4.1.118.Final.jar:?]
+	at knot/io.netty.channel.ChannelOutboundHandlerAdapter.write(ChannelOutboundHandlerAdapter.java:113) [netty-transport-4.1.118.Final.jar:?]
+	at knot/net.minecraft.class_2535$2.write(class_2535.java:524) [server-intermediary.jar:?]
+	at knot/io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:893) [netty-transport-4.1.118.Final.jar:?]
+	at knot/io.netty.channel.AbstractChannelHandlerContext.invokeWriteAndFlush(AbstractChannelHandlerContext.java:956) [netty-transport-4.1.118.Final.jar:?]
+	at knot/io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:982) [netty-transport-4.1.118.Final.jar:?]
+	at knot/io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:950) [netty-transport-4.1.118.Final.jar:?]
+	at knot/io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:1000) [netty-transport-4.1.118.Final.jar:?]
+	at knot/io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:974) [netty-transport-4.1.118.Final.jar:?]
+	at knot/io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:305) [netty-transport-4.1.118.Final.jar:?]
+	at knot/net.minecraft.class_2535.method_36942(class_2535.java:350) [server-intermediary.jar:?]
+	at knot/net.minecraft.class_2535.method_10764(class_2535.java:342) [server-intermediary.jar:?]
+	at knot/net.minecraft.class_2535.method_52906(class_2535.java:324) [server-intermediary.jar:?]
+	at knot/net.minecraft.class_2535.method_10752(class_2535.java:318) [server-intermediary.jar:?]
+	at knot/net.minecraft.class_2535.exceptionCaught(class_2535.java:169) [server-intermediary.jar:?]
+	at knot/io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:346) [netty-transport-4.1.118.Final.jar:?]
+	at knot/io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:325) [netty-transport-4.1.118.Final.jar:?]
+	at knot/io.netty.channel.AbstractChannelHandlerContext.fireExceptionCaught(AbstractChannelHandlerContext.java:317) [netty-transport-4.1.118.Final.jar:?]
+	at knot/io.netty.channel.DefaultChannelPipeline$HeadContext.exceptionCaught(DefaultChannelPipeline.java:1324) [netty-transport-4.1.118.Final.jar:?]
+	at knot/io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:346) [netty-transport-4.1.118.Final.jar:?]
+	at knot/io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:325) [netty-transport-4.1.118.Final.jar:?]
+	at knot/io.netty.channel.DefaultChannelPipeline.fireExceptionCaught(DefaultChannelPipeline.java:856) [netty-transport-4.1.118.Final.jar:?]
+	at knot/io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.handleReadException(AbstractEpollStreamChannel.java:727) [netty-transport-classes-epoll-4.1.118.Final.jar:?]
+	at knot/io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:825) [netty-transport-classes-epoll-4.1.118.Final.jar:?]
+	at knot/io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:501) [netty-transport-classes-epoll-4.1.118.Final.jar:?]
+	at knot/io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:399) [netty-transport-classes-epoll-4.1.118.Final.jar:?]
+	at knot/io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:998) [netty-common-4.1.118.Final.jar:?]
+	at knot/io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) [netty-common-4.1.118.Final.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1474) [?:?]
+[13:33:42] [Netty Epoll Server IO #13/INFO]: Policy of fetiet is: online
+[13:34:02] [Server thread/INFO]: fetiet[/110.65.147.201:56545] logged in with entity id 46147 at (-438.1514460609878, 63.0, -2621.5564449840804)
+[13:34:02] [Server thread/INFO]: fetiet joined the game
+[13:34:02] [Server thread/INFO]: Syncmatica client joining with local version 0.3.15 and client version 0.3.15
+[13:34:03] [Server thread/INFO]: Player fetiet joined with a matching carpet client
+[13:34:03] [Server thread/INFO]: [ShulkerBoxTooltip] fetiet: protocol version: 2.0
+[15:00:16] [Server thread/INFO]: Villager class_1646['Leatherworker'/46155, l='ServerLevel[world]', x=-398.73, y=63.00, z=-2654.35] died, message: 'Leatherworker was slain by Zombie'
+[15:57:11] [Server thread/INFO]: fetiet has made the advancement [Surge Protector]
+[16:06:24] [Server thread/INFO]: Villager class_1646['Leatherworker'/46107, l='ServerLevel[world]', x=-443.22, y=64.00, z=-2665.53] died, message: 'Leatherworker was slain by Zombie'
+[16:06:26] [Server thread/INFO]: Villager class_1646['Farmer'/46129, l='ServerLevel[world]', x=-359.70, y=64.00, z=-2670.52] died, message: 'Farmer was slain by Zombie'
+[16:42:11] [Server thread/INFO]: Villager class_1646['Farmer'/67358, l='ServerLevel[world]', x=-348.50, y=64.00, z=-2609.57] died, message: 'Farmer was slain by Zombie'
+[16:46:05] [Netty Epoll Server IO #3/INFO]: Policy of ppp204 is: online
+[16:46:06] [Netty Epoll Server IO #3/INFO]: [STDERR]: java.io.FileNotFoundException: https://api.mojang.com/users/profiles/minecraft/ppp204
+[16:46:06] [Netty Epoll Server IO #3/INFO]: [STDERR]: 	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1696)
+[16:46:06] [Netty Epoll Server IO #3/INFO]: [STDERR]: 	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1302)
+[16:46:06] [Netty Epoll Server IO #3/INFO]: [STDERR]: 	at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:223)
+[16:46:06] [Netty Epoll Server IO #3/INFO]: [STDERR]: 	at java.base/java.net.URL.openStream(URL.java:1263)
+[16:46:06] [Netty Epoll Server IO #3/INFO]: [STDERR]: 	at knot//org.apache.commons.io.IOUtils.toString(IOUtils.java:3223)
+[16:46:06] [Netty Epoll Server IO #3/INFO]: [STDERR]: 	at knot//org.apache.commons.io.IOUtils.toString(IOUtils.java:3198)
+[16:46:06] [Netty Epoll Server IO #3/INFO]: [STDERR]: 	at knot//org.apache.commons.io.IOUtils.toString(IOUtils.java:3312)
+[16:46:06] [Netty Epoll Server IO #3/INFO]: [STDERR]: 	at knot//org.apache.commons.io.IOUtils.toString(IOUtils.java:3271)
+[16:46:06] [Netty Epoll Server IO #3/INFO]: [STDERR]: 	at knot//io.github.satxm.mcwifipnp.UUIDFixer.getOfficialUUID(UUIDFixer.java:204)
+[16:46:06] [Netty Epoll Server IO #3/INFO]: [STDERR]: 	at knot//io.github.satxm.mcwifipnp.UUIDFixer$PolicyHolder.uuidOf(UUIDFixer.java:174)
+[16:46:06] [Netty Epoll Server IO #3/INFO]: [STDERR]: 	at knot//io.github.satxm.mcwifipnp.UUIDFixer.hookEntry(UUIDFixer.java:197)
+[16:46:06] [Netty Epoll Server IO #3/INFO]: [STDERR]: 	at knot//net.minecraft.class_4844.handler$cgi000$mcwifipnp$detour_createOfflinePlayerUUID(class_4844.java:517)
+[16:46:06] [Netty Epoll Server IO #3/INFO]: [STDERR]: 	at knot//net.minecraft.class_4844.method_43344(class_4844.java)
+[16:46:06] [Netty Epoll Server IO #3/INFO]: [STDERR]: 	at knot//net.minecraft.class_4844.method_54140(class_4844.java:126)
+[16:46:06] [Netty Epoll Server IO #3/INFO]: [STDERR]: 	at knot//net.minecraft.class_3248.method_12641(class_3248.java:142)
+[16:46:06] [Netty Epoll Server IO #3/INFO]: [STDERR]: 	at knot//net.minecraft.class_2915.method_12649(class_2915.java:30)
+[16:46:06] [Netty Epoll Server IO #3/INFO]: [STDERR]: 	at knot//net.minecraft.class_2915.method_65081(class_2915.java:11)
+[16:46:06] [Netty Epoll Server IO #3/INFO]: [STDERR]: 	at knot//net.minecraft.class_2535.method_10759(class_2535.java:207)
+[16:46:06] [Netty Epoll Server IO #3/INFO]: [STDERR]: 	at knot//net.minecraft.class_2535.method_10770(class_2535.java:192)
+[16:46:06] [Netty Epoll Server IO #3/INFO]: [STDERR]: 	at knot//net.minecraft.class_2535.channelRead0(class_2535.java:68)
+[16:46:06] [Netty Epoll Server IO #3/INFO]: [STDERR]: 	at knot//io.netty.channel.SimpleChannelInboundHandler.channelRead(SimpleChannelInboundHandler.java:99)
+[16:46:06] [Netty Epoll Server IO #3/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:444)
+[16:46:06] [Netty Epoll Server IO #3/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:420)
+[16:46:06] [Netty Epoll Server IO #3/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:412)
+[16:46:06] [Netty Epoll Server IO #3/INFO]: [STDERR]: 	at knot//io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:346)
+[16:46:06] [Netty Epoll Server IO #3/INFO]: [STDERR]: 	at knot//io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:318)
+[16:46:06] [Netty Epoll Server IO #3/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:444)
+[16:46:06] [Netty Epoll Server IO #3/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:420)
+[16:46:06] [Netty Epoll Server IO #3/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:412)
+[16:46:06] [Netty Epoll Server IO #3/INFO]: [STDERR]: 	at knot//io.netty.handler.flow.FlowControlHandler.dequeue(FlowControlHandler.java:202)
+[16:46:06] [Netty Epoll Server IO #3/INFO]: [STDERR]: 	at knot//io.netty.handler.flow.FlowControlHandler.channelRead(FlowControlHandler.java:164)
+[16:46:06] [Netty Epoll Server IO #3/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:442)
+[16:46:06] [Netty Epoll Server IO #3/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:420)
+[16:46:06] [Netty Epoll Server IO #3/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:412)
+[16:46:06] [Netty Epoll Server IO #3/INFO]: [STDERR]: 	at knot//io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:346)
+[16:46:06] [Netty Epoll Server IO #3/INFO]: [STDERR]: 	at knot//io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:318)
+[16:46:06] [Netty Epoll Server IO #3/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:444)
+[16:46:06] [Netty Epoll Server IO #3/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:420)
+[16:46:06] [Netty Epoll Server IO #3/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:412)
+[16:46:06] [Netty Epoll Server IO #3/INFO]: [STDERR]: 	at knot//io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:289)
+[16:46:06] [Netty Epoll Server IO #3/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:442)
+[16:46:06] [Netty Epoll Server IO #3/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:420)
+[16:46:06] [Netty Epoll Server IO #3/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:412)
+[16:46:06] [Netty Epoll Server IO #3/INFO]: [STDERR]: 	at knot//io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1357)
+[16:46:06] [Netty Epoll Server IO #3/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:440)
+[16:46:06] [Netty Epoll Server IO #3/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:420)
+[16:46:06] [Netty Epoll Server IO #3/INFO]: [STDERR]: 	at knot//io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:868)
+[16:46:06] [Netty Epoll Server IO #3/INFO]: [STDERR]: 	at knot//io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:799)
+[16:46:06] [Netty Epoll Server IO #3/INFO]: [STDERR]: 	at knot//io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:501)
+[16:46:06] [Netty Epoll Server IO #3/INFO]: [STDERR]: 	at knot//io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:399)
+[16:46:06] [Netty Epoll Server IO #3/INFO]: [STDERR]: 	at knot//io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:998)
+[16:46:06] [Netty Epoll Server IO #3/INFO]: [STDERR]: 	at knot//io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+[16:46:06] [Netty Epoll Server IO #3/INFO]: [STDERR]: 	at java.base/java.lang.Thread.run(Thread.java:1474)
+[16:46:07] [Server thread/INFO]: ppp204 (243001f5-8760-3447-a3ee-fe0d3326305e) lost connection: Disconnected
+[16:46:33] [Netty Epoll Server IO #5/INFO]: Policy of ppp204 is: online
+[16:46:34] [Netty Epoll Server IO #5/INFO]: [STDERR]: java.io.FileNotFoundException: https://api.mojang.com/users/profiles/minecraft/ppp204
+[16:46:34] [Netty Epoll Server IO #5/INFO]: [STDERR]: 	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1696)
+[16:46:34] [Netty Epoll Server IO #5/INFO]: [STDERR]: 	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1302)
+[16:46:34] [Netty Epoll Server IO #5/INFO]: [STDERR]: 	at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:223)
+[16:46:34] [Netty Epoll Server IO #5/INFO]: [STDERR]: 	at java.base/java.net.URL.openStream(URL.java:1263)
+[16:46:34] [Netty Epoll Server IO #5/INFO]: [STDERR]: 	at knot//org.apache.commons.io.IOUtils.toString(IOUtils.java:3223)
+[16:46:34] [Netty Epoll Server IO #5/INFO]: [STDERR]: 	at knot//org.apache.commons.io.IOUtils.toString(IOUtils.java:3198)
+[16:46:34] [Netty Epoll Server IO #5/INFO]: [STDERR]: 	at knot//org.apache.commons.io.IOUtils.toString(IOUtils.java:3312)
+[16:46:34] [Netty Epoll Server IO #5/INFO]: [STDERR]: 	at knot//org.apache.commons.io.IOUtils.toString(IOUtils.java:3271)
+[16:46:34] [Netty Epoll Server IO #5/INFO]: [STDERR]: 	at knot//io.github.satxm.mcwifipnp.UUIDFixer.getOfficialUUID(UUIDFixer.java:204)
+[16:46:34] [Netty Epoll Server IO #5/INFO]: [STDERR]: 	at knot//io.github.satxm.mcwifipnp.UUIDFixer$PolicyHolder.uuidOf(UUIDFixer.java:174)
+[16:46:34] [Netty Epoll Server IO #5/INFO]: [STDERR]: 	at knot//io.github.satxm.mcwifipnp.UUIDFixer.hookEntry(UUIDFixer.java:197)
+[16:46:34] [Netty Epoll Server IO #5/INFO]: [STDERR]: 	at knot//net.minecraft.class_4844.handler$cgi000$mcwifipnp$detour_createOfflinePlayerUUID(class_4844.java:517)
+[16:46:34] [Netty Epoll Server IO #5/INFO]: [STDERR]: 	at knot//net.minecraft.class_4844.method_43344(class_4844.java)
+[16:46:34] [Netty Epoll Server IO #5/INFO]: [STDERR]: 	at knot//net.minecraft.class_4844.method_54140(class_4844.java:126)
+[16:46:34] [Netty Epoll Server IO #5/INFO]: [STDERR]: 	at knot//net.minecraft.class_3248.method_12641(class_3248.java:142)
+[16:46:34] [Netty Epoll Server IO #5/INFO]: [STDERR]: 	at knot//net.minecraft.class_2915.method_12649(class_2915.java:30)
+[16:46:34] [Netty Epoll Server IO #5/INFO]: [STDERR]: 	at knot//net.minecraft.class_2915.method_65081(class_2915.java:11)
+[16:46:34] [Netty Epoll Server IO #5/INFO]: [STDERR]: 	at knot//net.minecraft.class_2535.method_10759(class_2535.java:207)
+[16:46:34] [Netty Epoll Server IO #5/INFO]: [STDERR]: 	at knot//net.minecraft.class_2535.method_10770(class_2535.java:192)
+[16:46:34] [Netty Epoll Server IO #5/INFO]: [STDERR]: 	at knot//net.minecraft.class_2535.channelRead0(class_2535.java:68)
+[16:46:34] [Netty Epoll Server IO #5/INFO]: [STDERR]: 	at knot//io.netty.channel.SimpleChannelInboundHandler.channelRead(SimpleChannelInboundHandler.java:99)
+[16:46:34] [Netty Epoll Server IO #5/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:444)
+[16:46:34] [Netty Epoll Server IO #5/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:420)
+[16:46:34] [Netty Epoll Server IO #5/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:412)
+[16:46:34] [Netty Epoll Server IO #5/INFO]: [STDERR]: 	at knot//io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:346)
+[16:46:34] [Netty Epoll Server IO #5/INFO]: [STDERR]: 	at knot//io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:318)
+[16:46:34] [Netty Epoll Server IO #5/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:444)
+[16:46:34] [Netty Epoll Server IO #5/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:420)
+[16:46:34] [Netty Epoll Server IO #5/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:412)
+[16:46:34] [Netty Epoll Server IO #5/INFO]: [STDERR]: 	at knot//io.netty.handler.flow.FlowControlHandler.dequeue(FlowControlHandler.java:202)
+[16:46:34] [Netty Epoll Server IO #5/INFO]: [STDERR]: 	at knot//io.netty.handler.flow.FlowControlHandler.channelRead(FlowControlHandler.java:164)
+[16:46:34] [Netty Epoll Server IO #5/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:442)
+[16:46:34] [Netty Epoll Server IO #5/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:420)
+[16:46:34] [Netty Epoll Server IO #5/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:412)
+[16:46:34] [Netty Epoll Server IO #5/INFO]: [STDERR]: 	at knot//io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:346)
+[16:46:34] [Netty Epoll Server IO #5/INFO]: [STDERR]: 	at knot//io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:318)
+[16:46:34] [Netty Epoll Server IO #5/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:444)
+[16:46:34] [Netty Epoll Server IO #5/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:420)
+[16:46:34] [Netty Epoll Server IO #5/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:412)
+[16:46:34] [Netty Epoll Server IO #5/INFO]: [STDERR]: 	at knot//io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:289)
+[16:46:34] [Netty Epoll Server IO #5/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:442)
+[16:46:34] [Netty Epoll Server IO #5/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:420)
+[16:46:34] [Netty Epoll Server IO #5/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:412)
+[16:46:34] [Netty Epoll Server IO #5/INFO]: [STDERR]: 	at knot//io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1357)
+[16:46:34] [Netty Epoll Server IO #5/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:440)
+[16:46:34] [Netty Epoll Server IO #5/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:420)
+[16:46:34] [Netty Epoll Server IO #5/INFO]: [STDERR]: 	at knot//io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:868)
+[16:46:34] [Netty Epoll Server IO #5/INFO]: [STDERR]: 	at knot//io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:799)
+[16:46:34] [Netty Epoll Server IO #5/INFO]: [STDERR]: 	at knot//io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:501)
+[16:46:34] [Netty Epoll Server IO #5/INFO]: [STDERR]: 	at knot//io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:399)
+[16:46:34] [Netty Epoll Server IO #5/INFO]: [STDERR]: 	at knot//io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:998)
+[16:46:34] [Netty Epoll Server IO #5/INFO]: [STDERR]: 	at knot//io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+[16:46:34] [Netty Epoll Server IO #5/INFO]: [STDERR]: 	at java.base/java.lang.Thread.run(Thread.java:1474)
+[16:46:35] [Server thread/INFO]: ppp204 (243001f5-8760-3447-a3ee-fe0d3326305e) lost connection: Disconnected
+[16:50:05] [Netty Epoll Server IO #8/INFO]: Policy of ppp204 is: online
+[16:50:06] [Netty Epoll Server IO #8/INFO]: [STDERR]: java.io.FileNotFoundException: https://api.mojang.com/users/profiles/minecraft/ppp204
+[16:50:06] [Netty Epoll Server IO #8/INFO]: [STDERR]: 	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1696)
+[16:50:06] [Netty Epoll Server IO #8/INFO]: [STDERR]: 	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1302)
+[16:50:06] [Netty Epoll Server IO #8/INFO]: [STDERR]: 	at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:223)
+[16:50:06] [Netty Epoll Server IO #8/INFO]: [STDERR]: 	at java.base/java.net.URL.openStream(URL.java:1263)
+[16:50:06] [Netty Epoll Server IO #8/INFO]: [STDERR]: 	at knot//org.apache.commons.io.IOUtils.toString(IOUtils.java:3223)
+[16:50:06] [Netty Epoll Server IO #8/INFO]: [STDERR]: 	at knot//org.apache.commons.io.IOUtils.toString(IOUtils.java:3198)
+[16:50:06] [Netty Epoll Server IO #8/INFO]: [STDERR]: 	at knot//org.apache.commons.io.IOUtils.toString(IOUtils.java:3312)
+[16:50:06] [Netty Epoll Server IO #8/INFO]: [STDERR]: 	at knot//org.apache.commons.io.IOUtils.toString(IOUtils.java:3271)
+[16:50:06] [Netty Epoll Server IO #8/INFO]: [STDERR]: 	at knot//io.github.satxm.mcwifipnp.UUIDFixer.getOfficialUUID(UUIDFixer.java:204)
+[16:50:06] [Netty Epoll Server IO #8/INFO]: [STDERR]: 	at knot//io.github.satxm.mcwifipnp.UUIDFixer$PolicyHolder.uuidOf(UUIDFixer.java:174)
+[16:50:06] [Netty Epoll Server IO #8/INFO]: [STDERR]: 	at knot//io.github.satxm.mcwifipnp.UUIDFixer.hookEntry(UUIDFixer.java:197)
+[16:50:06] [Netty Epoll Server IO #8/INFO]: [STDERR]: 	at knot//net.minecraft.class_4844.handler$cgi000$mcwifipnp$detour_createOfflinePlayerUUID(class_4844.java:517)
+[16:50:06] [Netty Epoll Server IO #8/INFO]: [STDERR]: 	at knot//net.minecraft.class_4844.method_43344(class_4844.java)
+[16:50:06] [Netty Epoll Server IO #8/INFO]: [STDERR]: 	at knot//net.minecraft.class_4844.method_54140(class_4844.java:126)
+[16:50:06] [Netty Epoll Server IO #8/INFO]: [STDERR]: 	at knot//net.minecraft.class_3248.method_12641(class_3248.java:142)
+[16:50:06] [Netty Epoll Server IO #8/INFO]: [STDERR]: 	at knot//net.minecraft.class_2915.method_12649(class_2915.java:30)
+[16:50:06] [Netty Epoll Server IO #8/INFO]: [STDERR]: 	at knot//net.minecraft.class_2915.method_65081(class_2915.java:11)
+[16:50:06] [Netty Epoll Server IO #8/INFO]: [STDERR]: 	at knot//net.minecraft.class_2535.method_10759(class_2535.java:207)
+[16:50:06] [Netty Epoll Server IO #8/INFO]: [STDERR]: 	at knot//net.minecraft.class_2535.method_10770(class_2535.java:192)
+[16:50:06] [Netty Epoll Server IO #8/INFO]: [STDERR]: 	at knot//net.minecraft.class_2535.channelRead0(class_2535.java:68)
+[16:50:06] [Netty Epoll Server IO #8/INFO]: [STDERR]: 	at knot//io.netty.channel.SimpleChannelInboundHandler.channelRead(SimpleChannelInboundHandler.java:99)
+[16:50:06] [Netty Epoll Server IO #8/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:444)
+[16:50:06] [Netty Epoll Server IO #8/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:420)
+[16:50:06] [Netty Epoll Server IO #8/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:412)
+[16:50:06] [Netty Epoll Server IO #8/INFO]: [STDERR]: 	at knot//io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:346)
+[16:50:06] [Netty Epoll Server IO #8/INFO]: [STDERR]: 	at knot//io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:318)
+[16:50:06] [Netty Epoll Server IO #8/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:444)
+[16:50:06] [Netty Epoll Server IO #8/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:420)
+[16:50:06] [Netty Epoll Server IO #8/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:412)
+[16:50:06] [Netty Epoll Server IO #8/INFO]: [STDERR]: 	at knot//io.netty.handler.flow.FlowControlHandler.dequeue(FlowControlHandler.java:202)
+[16:50:06] [Netty Epoll Server IO #8/INFO]: [STDERR]: 	at knot//io.netty.handler.flow.FlowControlHandler.channelRead(FlowControlHandler.java:164)
+[16:50:06] [Netty Epoll Server IO #8/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:442)
+[16:50:06] [Netty Epoll Server IO #8/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:420)
+[16:50:06] [Netty Epoll Server IO #8/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:412)
+[16:50:06] [Netty Epoll Server IO #8/INFO]: [STDERR]: 	at knot//io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:346)
+[16:50:06] [Netty Epoll Server IO #8/INFO]: [STDERR]: 	at knot//io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:318)
+[16:50:06] [Netty Epoll Server IO #8/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:444)
+[16:50:06] [Netty Epoll Server IO #8/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:420)
+[16:50:06] [Netty Epoll Server IO #8/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:412)
+[16:50:06] [Netty Epoll Server IO #8/INFO]: [STDERR]: 	at knot//io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:289)
+[16:50:06] [Netty Epoll Server IO #8/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:442)
+[16:50:06] [Netty Epoll Server IO #8/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:420)
+[16:50:06] [Netty Epoll Server IO #8/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:412)
+[16:50:06] [Netty Epoll Server IO #8/INFO]: [STDERR]: 	at knot//io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1357)
+[16:50:06] [Netty Epoll Server IO #8/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:440)
+[16:50:06] [Netty Epoll Server IO #8/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:420)
+[16:50:06] [Netty Epoll Server IO #8/INFO]: [STDERR]: 	at knot//io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:868)
+[16:50:06] [Netty Epoll Server IO #8/INFO]: [STDERR]: 	at knot//io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:799)
+[16:50:06] [Netty Epoll Server IO #8/INFO]: [STDERR]: 	at knot//io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:501)
+[16:50:06] [Netty Epoll Server IO #8/INFO]: [STDERR]: 	at knot//io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:399)
+[16:50:06] [Netty Epoll Server IO #8/INFO]: [STDERR]: 	at knot//io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:998)
+[16:50:06] [Netty Epoll Server IO #8/INFO]: [STDERR]: 	at knot//io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+[16:50:06] [Netty Epoll Server IO #8/INFO]: [STDERR]: 	at java.base/java.lang.Thread.run(Thread.java:1474)
+[16:50:29] [Server thread/INFO]: ppp204[/183.157.178.207:56938] logged in with entity id 76198 at (-77.49797990333744, 30.0, -122.34884410466259)
+[16:50:29] [Server thread/INFO]: ppp204 joined the game
+[16:50:30] [Server thread/INFO]: Syncmatica client joining with local version 0.3.15 and client version 0.3.15
+[16:50:32] [Server thread/INFO]: Player ppp204 joined with a matching carpet client
+[16:50:33] [Server thread/INFO]: [ShulkerBoxTooltip] ppp204: protocol version: 2.0
+[16:50:51] [Server thread/INFO]: [ppp204: Teleported ppp204 to -388.500000, 63.000000, -2661.500000]
+[16:52:18] [Server thread/INFO]: ppp204 lost connection: Disconnected
+[16:52:18] [Server thread/INFO]: ppp204 left the game
+[16:53:57] [Netty Epoll Server IO #12/INFO]: Policy of ppp204 is: online
+[16:53:58] [Netty Epoll Server IO #12/INFO]: [STDERR]: java.io.FileNotFoundException: https://api.mojang.com/users/profiles/minecraft/ppp204
+[16:53:58] [Netty Epoll Server IO #12/INFO]: [STDERR]: 	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1696)
+[16:53:58] [Netty Epoll Server IO #12/INFO]: [STDERR]: 	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1302)
+[16:53:58] [Netty Epoll Server IO #12/INFO]: [STDERR]: 	at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:223)
+[16:53:58] [Netty Epoll Server IO #12/INFO]: [STDERR]: 	at java.base/java.net.URL.openStream(URL.java:1263)
+[16:53:58] [Netty Epoll Server IO #12/INFO]: [STDERR]: 	at knot//org.apache.commons.io.IOUtils.toString(IOUtils.java:3223)
+[16:53:58] [Netty Epoll Server IO #12/INFO]: [STDERR]: 	at knot//org.apache.commons.io.IOUtils.toString(IOUtils.java:3198)
+[16:53:58] [Netty Epoll Server IO #12/INFO]: [STDERR]: 	at knot//org.apache.commons.io.IOUtils.toString(IOUtils.java:3312)
+[16:53:58] [Netty Epoll Server IO #12/INFO]: [STDERR]: 	at knot//org.apache.commons.io.IOUtils.toString(IOUtils.java:3271)
+[16:53:58] [Netty Epoll Server IO #12/INFO]: [STDERR]: 	at knot//io.github.satxm.mcwifipnp.UUIDFixer.getOfficialUUID(UUIDFixer.java:204)
+[16:53:58] [Netty Epoll Server IO #12/INFO]: [STDERR]: 	at knot//io.github.satxm.mcwifipnp.UUIDFixer$PolicyHolder.uuidOf(UUIDFixer.java:174)
+[16:53:58] [Netty Epoll Server IO #12/INFO]: [STDERR]: 	at knot//io.github.satxm.mcwifipnp.UUIDFixer.hookEntry(UUIDFixer.java:197)
+[16:53:58] [Netty Epoll Server IO #12/INFO]: [STDERR]: 	at knot//net.minecraft.class_4844.handler$cgi000$mcwifipnp$detour_createOfflinePlayerUUID(class_4844.java:517)
+[16:53:58] [Netty Epoll Server IO #12/INFO]: [STDERR]: 	at knot//net.minecraft.class_4844.method_43344(class_4844.java)
+[16:53:58] [Netty Epoll Server IO #12/INFO]: [STDERR]: 	at knot//net.minecraft.class_4844.method_54140(class_4844.java:126)
+[16:53:58] [Netty Epoll Server IO #12/INFO]: [STDERR]: 	at knot//net.minecraft.class_3248.method_12641(class_3248.java:142)
+[16:53:58] [Netty Epoll Server IO #12/INFO]: [STDERR]: 	at knot//net.minecraft.class_2915.method_12649(class_2915.java:30)
+[16:53:58] [Netty Epoll Server IO #12/INFO]: [STDERR]: 	at knot//net.minecraft.class_2915.method_65081(class_2915.java:11)
+[16:53:58] [Netty Epoll Server IO #12/INFO]: [STDERR]: 	at knot//net.minecraft.class_2535.method_10759(class_2535.java:207)
+[16:53:58] [Netty Epoll Server IO #12/INFO]: [STDERR]: 	at knot//net.minecraft.class_2535.method_10770(class_2535.java:192)
+[16:53:58] [Netty Epoll Server IO #12/INFO]: [STDERR]: 	at knot//net.minecraft.class_2535.channelRead0(class_2535.java:68)
+[16:53:58] [Netty Epoll Server IO #12/INFO]: [STDERR]: 	at knot//io.netty.channel.SimpleChannelInboundHandler.channelRead(SimpleChannelInboundHandler.java:99)
+[16:53:58] [Netty Epoll Server IO #12/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:444)
+[16:53:58] [Netty Epoll Server IO #12/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:420)
+[16:53:58] [Netty Epoll Server IO #12/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:412)
+[16:53:58] [Netty Epoll Server IO #12/INFO]: [STDERR]: 	at knot//io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:346)
+[16:53:58] [Netty Epoll Server IO #12/INFO]: [STDERR]: 	at knot//io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:318)
+[16:53:58] [Netty Epoll Server IO #12/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:444)
+[16:53:58] [Netty Epoll Server IO #12/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:420)
+[16:53:58] [Netty Epoll Server IO #12/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:412)
+[16:53:58] [Netty Epoll Server IO #12/INFO]: [STDERR]: 	at knot//io.netty.handler.flow.FlowControlHandler.dequeue(FlowControlHandler.java:202)
+[16:53:58] [Netty Epoll Server IO #12/INFO]: [STDERR]: 	at knot//io.netty.handler.flow.FlowControlHandler.channelRead(FlowControlHandler.java:164)
+[16:53:58] [Netty Epoll Server IO #12/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:442)
+[16:53:58] [Netty Epoll Server IO #12/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:420)
+[16:53:58] [Netty Epoll Server IO #12/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:412)
+[16:53:58] [Netty Epoll Server IO #12/INFO]: [STDERR]: 	at knot//io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:346)
+[16:53:58] [Netty Epoll Server IO #12/INFO]: [STDERR]: 	at knot//io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:318)
+[16:53:58] [Netty Epoll Server IO #12/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:444)
+[16:53:58] [Netty Epoll Server IO #12/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:420)
+[16:53:58] [Netty Epoll Server IO #12/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:412)
+[16:53:58] [Netty Epoll Server IO #12/INFO]: [STDERR]: 	at knot//io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:289)
+[16:53:58] [Netty Epoll Server IO #12/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:442)
+[16:53:58] [Netty Epoll Server IO #12/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:420)
+[16:53:58] [Netty Epoll Server IO #12/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:412)
+[16:53:58] [Netty Epoll Server IO #12/INFO]: [STDERR]: 	at knot//io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1357)
+[16:53:58] [Netty Epoll Server IO #12/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:440)
+[16:53:58] [Netty Epoll Server IO #12/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:420)
+[16:53:58] [Netty Epoll Server IO #12/INFO]: [STDERR]: 	at knot//io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:868)
+[16:53:58] [Netty Epoll Server IO #12/INFO]: [STDERR]: 	at knot//io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:799)
+[16:53:58] [Netty Epoll Server IO #12/INFO]: [STDERR]: 	at knot//io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:501)
+[16:53:58] [Netty Epoll Server IO #12/INFO]: [STDERR]: 	at knot//io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:399)
+[16:53:58] [Netty Epoll Server IO #12/INFO]: [STDERR]: 	at knot//io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:998)
+[16:53:58] [Netty Epoll Server IO #12/INFO]: [STDERR]: 	at knot//io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+[16:53:58] [Netty Epoll Server IO #12/INFO]: [STDERR]: 	at java.base/java.lang.Thread.run(Thread.java:1474)
+[16:54:21] [Server thread/INFO]: ppp204[/183.157.178.207:64591] logged in with entity id 77081 at (-392.5908449645363, 64.0, -2668.770575588661)
+[16:54:21] [Server thread/INFO]: ppp204 joined the game
+[16:54:24] [Server thread/INFO]: Syncmatica client joining with local version 0.3.15 and client version 0.3.15
+[16:54:24] [Server thread/INFO]: Player ppp204 joined with a matching carpet client
+[16:54:24] [Server thread/INFO]: [ShulkerBoxTooltip] ppp204: protocol version: 2.0
+[16:54:32] [Server thread/INFO]: [ppp204: Teleported ppp204 to fetiet]
+[16:55:59] [Server thread/INFO]: [ppp204: Set own game mode to Creative Mode]
+[16:56:14] [Server thread/INFO]: Villager class_1646['Mason'/46112, l='ServerLevel[world]', x=-393.83, y=63.00, z=-2648.43] died, message: 'Mason was slain by Zombie'
+[16:56:30] [Server thread/INFO]: Villager class_1646['Fletcher'/46175, l='ServerLevel[world]', x=-382.64, y=63.00, z=-2655.95] died, message: 'Fletcher was slain by Zombie'
+[16:56:37] [Server thread/INFO]: Villager class_1646['Weaponsmith'/46132, l='ServerLevel[world]', x=-389.02, y=63.00, z=-2657.99] died, message: 'Weaponsmith was slain by Zombie'
+[16:56:49] [Server thread/INFO]: Villager class_1646['Butcher'/46195, l='ServerLevel[world]', x=-396.49, y=63.00, z=-2655.09] died, message: 'Butcher was slain by Zombie Villager'
+[16:56:49] [Server thread/INFO]: [ppp204: Set own game mode to Survival Mode]
+[16:56:50] [Server thread/INFO]: Villager class_1646['Shepherd'/46133, l='ServerLevel[world]', x=-394.73, y=63.56, z=-2656.88] died, message: 'Shepherd was slain by Zombie Villager'
+[16:56:55] [Server thread/INFO]: Villager class_1646['Leatherworker'/46131, l='ServerLevel[world]', x=-391.76, y=63.00, z=-2660.67] died, message: 'Leatherworker was slain by Zombie Villager'
+[16:57:02] [Server thread/INFO]: ppp204 lost connection: Disconnected
+[16:57:02] [Server thread/INFO]: ppp204 left the game
+[16:57:05] [Server thread/INFO]: Villager class_1646['Farmer'/72010, l='ServerLevel[world]', x=-392.51, y=63.00, z=-2644.15] died, message: 'Farmer was slain by Zombie Villager'
+[16:57:13] [Server thread/INFO]: Villager class_1646['Leatherworker'/46134, l='ServerLevel[world]', x=-398.56, y=63.00, z=-2659.59] died, message: 'Leatherworker was slain by Zombie Villager'
+[16:57:29] [Server thread/INFO]: Villager class_1646['Farmer'/46126, l='ServerLevel[world]', x=-383.61, y=63.00, z=-2652.23] died, message: 'Farmer was slain by Zombie Villager'
+[16:57:36] [Server thread/INFO]: Villager class_1646['Cartographer'/46130, l='ServerLevel[world]', x=-388.40, y=63.00, z=-2661.94] died, message: 'Cartographer was slain by Zombie Villager'
+[16:57:37] [Server thread/INFO]: Villager class_1646['Leatherworker'/59961, l='ServerLevel[world]', x=-377.86, y=64.00, z=-2654.68] died, message: 'Leatherworker was slain by Zombie Villager'
+[16:57:43] [Server thread/INFO]: Villager class_1646['Librarian'/46125, l='ServerLevel[world]', x=-377.86, y=64.00, z=-2662.61] died, message: 'Librarian was slain by Zombie Villager'
+[16:57:49] [Server thread/INFO]: Villager class_1646['Toolsmith'/47884, l='ServerLevel[world]', x=-380.31, y=64.00, z=-2657.65] died, message: 'Toolsmith was slain by Zombie Villager'
+[16:57:50] [Server thread/INFO]: Villager class_1646['Cleric'/46127, l='ServerLevel[world]', x=-398.33, y=63.00, z=-2655.60] died, message: 'Cleric was slain by Zombie Villager'
+[16:57:50] [Server thread/INFO]: Villager class_1646['Leatherworker'/46128, l='ServerLevel[world]', x=-389.24, y=63.00, z=-2645.81] died, message: 'Leatherworker was slain by Zombie Villager'
+[17:37:38] [Netty Epoll Server IO #11/INFO]: Policy of SZYZBG is: online
+[17:37:39] [Server thread/INFO]: SZYZBG (/110.65.147.230:58950) lost connection: Disconnected
+[17:43:30] [Netty Epoll Server IO #12/INFO]: Policy of SZYZBG is: online
+[17:43:46] [Server thread/INFO]: SZYZBG[/110.65.147.230:58954] logged in with entity id 84145 at (-393.4228509765529, 64.0, -2671.6875091778957)
+[17:43:46] [Server thread/INFO]: SZYZBG joined the game
+[17:43:47] [Server thread/INFO]: Syncmatica client joining with local version 0.3.15 and client version 0.3.15
+[17:43:47] [Server thread/INFO]: Player SZYZBG joined with a matching carpet client
+[17:43:47] [Server thread/INFO]: [ShulkerBoxTooltip] SZYZBG: protocol version: 2.0
+[17:44:41] [Server thread/INFO]: SZYZBG was doomed to fall by Zombified Piglin
+[17:45:44] [Server thread/INFO]: SZYZBG was slain by Zombified Piglin
+[17:46:52] [Server thread/INFO]: SZYZBG was doomed to fall by Zombified Piglin
+[17:47:32] [Server thread/INFO]: SZYZBG was slain by Zombified Piglin
+[17:55:02] [Server thread/INFO]: SZYZBG fell from a high place
+[17:55:45] [Server thread/INFO]: SZYZBG was slain by Zombified Piglin
+[17:56:11] [Server thread/INFO]: SZYZBG was slain by Zombified Piglin
+[17:57:34] [Server thread/INFO]: SZYZBG was slain by Zombified Piglin
+[18:09:55] [Server thread/INFO]: SZYZBG burned to death
+[18:22:51] [Server thread/INFO]: [SZYZBG: Teleported SZYZBG to fetiet]
+[18:36:32] [Server thread/INFO]: SZYZBG was slain by Piglin
+[18:36:45] [Server thread/INFO]: SZYZBG has made the advancement [Ol' Betsy]
+[18:51:02] [Server thread/INFO]: SZYZBG lost connection: Disconnected
+[18:51:02] [Server thread/INFO]: SZYZBG left the game
+[19:05:54] [Server thread/INFO]: Villager class_1646['Nitwit'/46176, l='ServerLevel[world]', x=-383.05, y=63.00, z=-2648.05] died, message: 'Nitwit was slain by Drowned'
+[19:06:08] [Server thread/INFO]: fetiet was impaled by Drowned
+[20:31:27] [Netty Epoll Server IO #11/INFO]: Policy of SZYZBG is: online
+[20:31:45] [Server thread/INFO]: SZYZBG[/38.175.200.129:58952] logged in with entity id 102261 at (-377.31554149452177, 63.0, -2667.1563147695665)
+[20:31:45] [Server thread/INFO]: SZYZBG joined the game
+[20:31:46] [Server thread/INFO]: Syncmatica client joining with local version 0.3.15 and client version 0.3.15
+[20:31:47] [Server thread/INFO]: Player SZYZBG joined with a matching carpet client
+[20:31:47] [Server thread/INFO]: [ShulkerBoxTooltip] SZYZBG: protocol version: 2.0
+[20:31:57] [Server thread/INFO]: [SZYZBG: Teleported SZYZBG to fetiet]
+[20:45:01] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-436, y=64, z=-2654} class_2338{x=-436, y=62, z=-2653}
+[20:45:01] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-436, y=64, z=-2654} class_2338{x=-436, y=62, z=-2653}
+[20:45:08] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-433, y=64, z=-2650} class_2338{x=-433, y=62, z=-2650}
+[20:45:08] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-433, y=64, z=-2650} class_2338{x=-433, y=62, z=-2650}
+[20:45:32] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-425, y=64, z=-2650} class_2338{x=-425, y=62, z=-2650}
+[20:45:33] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-423, y=64, z=-2650} class_2338{x=-423, y=62, z=-2650}
+[20:45:34] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-422, y=64, z=-2650} class_2338{x=-422, y=62, z=-2650}
+[20:45:38] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-420, y=64, z=-2651} class_2338{x=-420, y=62, z=-2651}
+[20:45:38] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-420, y=64, z=-2651} class_2338{x=-420, y=62, z=-2651}
+[20:46:02] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-416, y=64, z=-2654} class_2338{x=-416, y=62, z=-2654}
+[20:46:02] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-416, y=64, z=-2654} class_2338{x=-416, y=62, z=-2654}
+[20:46:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-416, y=64, z=-2658} class_2338{x=-416, y=62, z=-2658}
+[20:46:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-416, y=64, z=-2658} class_2338{x=-416, y=62, z=-2658}
+[20:58:35] [Server thread/INFO]: SZYZBG lost connection: Disconnected
+[20:58:35] [Server thread/INFO]: SZYZBG left the game
+[21:56:32] [Server thread/INFO]: fetiet lost connection: Disconnected
+[21:56:32] [Server thread/INFO]: fetiet left the game
+[21:57:32] [Server thread/INFO]: Server empty for 60 seconds, pausing
