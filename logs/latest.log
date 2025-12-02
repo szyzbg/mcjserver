@@ -1,204 +1,254 @@
-[00:01:26] [Server thread/INFO]: Evan has made the advancement [Acquire Hardware]
-[00:01:41] [Server thread/INFO]: Evan has made the advancement [Suit Up]
-[00:03:46] [Server thread/INFO]: Evan has made the advancement [Isn't It Iron Pick]
-[00:06:21] [Netty Epoll Server IO #7/INFO]: Policy of RekoXX is: online
-[00:06:22] [Server thread/INFO]: Disconnecting RekoXX (/172.182.186.54:4525): You are not white-listed on this server!
-[00:06:22] [Server thread/INFO]: RekoXX (/172.182.186.54:4525) lost connection: You are not white-listed on this server!
-[00:06:22] [Server thread/WARN]: handleDisconnection() called twice
-[00:07:15] [Server thread/WARN]: Couldn't find profile with name: rekoxx
-com.mojang.authlib.exceptions.MinecraftClientHttpException: Status: 503
-	at knot/com.mojang.authlib.minecraft.client.MinecraftClient.readInputStream(MinecraftClient.java:103) ~[authlib-7.0.61.jar:?]
-	at knot/com.mojang.authlib.minecraft.client.MinecraftClient.get(MinecraftClient.java:56) ~[authlib-7.0.61.jar:?]
-	at knot/com.mojang.authlib.yggdrasil.YggdrasilGameProfileRepository.findProfileByName(YggdrasilGameProfileRepository.java:110) [authlib-7.0.61.jar:?]
-	at knot/net.minecraft.class_3312.method_14509(class_3312.java:74) [server-intermediary.jar:?]
-	at knot/net.minecraft.class_3312.method_14515(class_3312.java:135) [server-intermediary.jar:?]
-	at knot/net.minecraft.class_2191.method_9328(class_2191.java:65) [server-intermediary.jar:?]
-	at knot/net.minecraft.class_2191.method_9330(class_2191.java:31) [server-intermediary.jar:?]
-	at knot/net.minecraft.class_3156.method_13843(class_3156.java:53) [server-intermediary.jar:?]
-	at knot/com.mojang.brigadier.context.ContextChain.runExecutable(ContextChain.java:73) [brigadier-1.3.10.jar:?]
-	at knot/net.minecraft.class_8865.method_54416(class_8865.java:29) [server-intermediary.jar:?]
-	at knot/net.minecraft.class_8865.execute(class_8865.java:13) [server-intermediary.jar:?]
-	at knot/net.minecraft.class_8856.method_54405(class_8856.java:8) [server-intermediary.jar:?]
-	at knot/net.minecraft.class_8847.method_54388(class_8847.java:8) [server-intermediary.jar:?]
-	at knot/net.minecraft.class_8854.method_54390(class_8854.java:107) [server-intermediary.jar:?]
-	at knot/net.minecraft.class_2170.method_54313(class_2170.java:422) [server-intermediary.jar:?]
-	at knot/net.minecraft.class_2170.method_9249(class_2170.java:352) [server-intermediary.jar:?]
-	at knot/net.minecraft.class_3244.method_58590(class_3244.java:1542) [server-intermediary.jar:?]
-	at knot/net.minecraft.class_3244.method_44356(class_3244.java:1530) [server-intermediary.jar:?]
-	at knot/net.minecraft.class_3738.run(class_3738.java:18) [server-intermediary.jar:?]
-	at knot/net.minecraft.class_1255.method_18859(class_1255.java:168) [server-intermediary.jar:?]
-	at knot/net.minecraft.class_4093.method_18859(class_4093.java:23) [server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_24306(MinecraftServer.java:957) [server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_18859(MinecraftServer.java:182) [server-intermediary.jar:?]
-	at knot/net.minecraft.class_1255.method_16075(class_1255.java:142) [server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_20415(MinecraftServer.java:939) [server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_16075(MinecraftServer.java:933) [server-intermediary.jar:?]
-	at knot/net.minecraft.class_1255.method_18857(class_1255.java:151) [server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_18857(MinecraftServer.java:888) [server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_16208(MinecraftServer.java:904) [server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:781) [server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:297) [server-intermediary.jar:?]
-	at java.base/java.lang.Thread.run(Thread.java:1474) [?:?]
-[00:07:15] [Server thread/INFO]: Policy of rekoxx is: online
-[00:07:16] [Server thread/INFO]: [fetiet: Added rekoxx to the whitelist]
-[00:08:33] [Server thread/INFO]: Evan has made the advancement [Stone Age]
-[00:09:39] [Netty Epoll Server IO #9/INFO]: Policy of RekoXX is: online
-[00:11:54] [Server thread/INFO]: fetiet lost connection: Timed out
-[00:11:54] [Server thread/INFO]: fetiet left the game
-[00:12:04] [Netty Epoll Server IO #25/INFO]: Policy of fetiet is: online
-[00:12:29] [Server thread/INFO]: fetiet[/110.65.147.201:55416] logged in with entity id 35346 at (-449.6493169524418, 64.0, -2371.6803731406035)
-[00:12:29] [Server thread/INFO]: fetiet joined the game
-[00:12:29] [Server thread/INFO]: [ShulkerBoxTooltip] fetiet: protocol version: 2.0
-[00:12:29] [Server thread/INFO]: Syncmatica client joining with local version 0.3.15 and client version 0.3.15
-[00:12:29] [Server thread/INFO]: Player fetiet joined with a matching carpet client
-[00:12:53] [Netty Epoll Server IO #27/INFO]: Policy of MCScans is: online
-[00:12:54] [Netty Epoll Server IO #27/INFO]: [STDERR]: java.io.FileNotFoundException: https://api.mojang.com/users/profiles/minecraft/MCScans
-[00:12:54] [Netty Epoll Server IO #27/INFO]: [STDERR]: 	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1696)
-[00:12:54] [Netty Epoll Server IO #27/INFO]: [STDERR]: 	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1302)
-[00:12:54] [Netty Epoll Server IO #27/INFO]: [STDERR]: 	at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:223)
-[00:12:54] [Netty Epoll Server IO #27/INFO]: [STDERR]: 	at java.base/java.net.URL.openStream(URL.java:1263)
-[00:12:54] [Netty Epoll Server IO #27/INFO]: [STDERR]: 	at knot//org.apache.commons.io.IOUtils.toString(IOUtils.java:3223)
-[00:12:54] [Netty Epoll Server IO #27/INFO]: [STDERR]: 	at knot//org.apache.commons.io.IOUtils.toString(IOUtils.java:3198)
-[00:12:54] [Netty Epoll Server IO #27/INFO]: [STDERR]: 	at knot//org.apache.commons.io.IOUtils.toString(IOUtils.java:3312)
-[00:12:54] [Netty Epoll Server IO #27/INFO]: [STDERR]: 	at knot//org.apache.commons.io.IOUtils.toString(IOUtils.java:3271)
-[00:12:54] [Netty Epoll Server IO #27/INFO]: [STDERR]: 	at knot//io.github.satxm.mcwifipnp.UUIDFixer.getOfficialUUID(UUIDFixer.java:204)
-[00:12:54] [Netty Epoll Server IO #27/INFO]: [STDERR]: 	at knot//io.github.satxm.mcwifipnp.UUIDFixer$PolicyHolder.uuidOf(UUIDFixer.java:174)
-[00:12:54] [Netty Epoll Server IO #27/INFO]: [STDERR]: 	at knot//io.github.satxm.mcwifipnp.UUIDFixer.hookEntry(UUIDFixer.java:197)
-[00:12:54] [Netty Epoll Server IO #27/INFO]: [STDERR]: 	at knot//net.minecraft.class_4844.handler$cgi000$mcwifipnp$detour_createOfflinePlayerUUID(class_4844.java:517)
-[00:12:54] [Netty Epoll Server IO #27/INFO]: [STDERR]: 	at knot//net.minecraft.class_4844.method_43344(class_4844.java)
-[00:12:54] [Netty Epoll Server IO #27/INFO]: [STDERR]: 	at knot//net.minecraft.class_4844.method_54140(class_4844.java:126)
-[00:12:54] [Netty Epoll Server IO #27/INFO]: [STDERR]: 	at knot//net.minecraft.class_3248.method_12641(class_3248.java:142)
-[00:12:54] [Netty Epoll Server IO #27/INFO]: [STDERR]: 	at knot//net.minecraft.class_2915.method_12649(class_2915.java:30)
-[00:12:54] [Netty Epoll Server IO #27/INFO]: [STDERR]: 	at knot//net.minecraft.class_2915.method_65081(class_2915.java:11)
-[00:12:54] [Netty Epoll Server IO #27/INFO]: [STDERR]: 	at knot//net.minecraft.class_2535.method_10759(class_2535.java:207)
-[00:12:54] [Netty Epoll Server IO #27/INFO]: [STDERR]: 	at knot//net.minecraft.class_2535.method_10770(class_2535.java:192)
-[00:12:54] [Netty Epoll Server IO #27/INFO]: [STDERR]: 	at knot//net.minecraft.class_2535.channelRead0(class_2535.java:68)
-[00:12:54] [Netty Epoll Server IO #27/INFO]: [STDERR]: 	at knot//io.netty.channel.SimpleChannelInboundHandler.channelRead(SimpleChannelInboundHandler.java:99)
-[00:12:54] [Netty Epoll Server IO #27/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:444)
-[00:12:54] [Netty Epoll Server IO #27/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:420)
-[00:12:54] [Netty Epoll Server IO #27/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:412)
-[00:12:54] [Netty Epoll Server IO #27/INFO]: [STDERR]: 	at knot//io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:346)
-[00:12:54] [Netty Epoll Server IO #27/INFO]: [STDERR]: 	at knot//io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:318)
-[00:12:54] [Netty Epoll Server IO #27/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:444)
-[00:12:54] [Netty Epoll Server IO #27/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:420)
-[00:12:54] [Netty Epoll Server IO #27/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:412)
-[00:12:54] [Netty Epoll Server IO #27/INFO]: [STDERR]: 	at knot//io.netty.handler.flow.FlowControlHandler.dequeue(FlowControlHandler.java:202)
-[00:12:54] [Netty Epoll Server IO #27/INFO]: [STDERR]: 	at knot//io.netty.handler.flow.FlowControlHandler.channelRead(FlowControlHandler.java:164)
-[00:12:54] [Netty Epoll Server IO #27/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:442)
-[00:12:54] [Netty Epoll Server IO #27/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:420)
-[00:12:54] [Netty Epoll Server IO #27/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:412)
-[00:12:54] [Netty Epoll Server IO #27/INFO]: [STDERR]: 	at knot//io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:346)
-[00:12:54] [Netty Epoll Server IO #27/INFO]: [STDERR]: 	at knot//io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:318)
-[00:12:54] [Netty Epoll Server IO #27/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:444)
-[00:12:54] [Netty Epoll Server IO #27/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:420)
-[00:12:54] [Netty Epoll Server IO #27/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:412)
-[00:12:54] [Netty Epoll Server IO #27/INFO]: [STDERR]: 	at knot//net.minecraft.class_3238.channelRead(class_3238.java:74)
-[00:12:54] [Netty Epoll Server IO #27/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:444)
-[00:12:54] [Netty Epoll Server IO #27/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:420)
-[00:12:54] [Netty Epoll Server IO #27/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:412)
-[00:12:54] [Netty Epoll Server IO #27/INFO]: [STDERR]: 	at knot//io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:289)
-[00:12:54] [Netty Epoll Server IO #27/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:442)
-[00:12:54] [Netty Epoll Server IO #27/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:420)
-[00:12:54] [Netty Epoll Server IO #27/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:412)
-[00:12:54] [Netty Epoll Server IO #27/INFO]: [STDERR]: 	at knot//io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1357)
-[00:12:54] [Netty Epoll Server IO #27/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:440)
-[00:12:54] [Netty Epoll Server IO #27/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:420)
-[00:12:54] [Netty Epoll Server IO #27/INFO]: [STDERR]: 	at knot//io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:868)
-[00:12:54] [Netty Epoll Server IO #27/INFO]: [STDERR]: 	at knot//io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:799)
-[00:12:54] [Netty Epoll Server IO #27/INFO]: [STDERR]: 	at knot//io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:501)
-[00:12:54] [Netty Epoll Server IO #27/INFO]: [STDERR]: 	at knot//io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:399)
-[00:12:54] [Netty Epoll Server IO #27/INFO]: [STDERR]: 	at knot//io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:998)
-[00:12:54] [Netty Epoll Server IO #27/INFO]: [STDERR]: 	at knot//io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
-[00:12:54] [Netty Epoll Server IO #27/INFO]: [STDERR]: 	at java.base/java.lang.Thread.run(Thread.java:1474)
-[00:12:54] [Server thread/INFO]: MCScans (/45.148.10.134:40512) lost connection: Disconnected
-[00:13:33] [Server thread/INFO]: RekoXX[/172.182.186.54:4487] logged in with entity id 36193 at (8.5, 85.0, 2.5)
-[00:13:33] [Server thread/INFO]: RekoXX joined the game
-[00:13:34] [Server thread/INFO]: Syncmatica client joining with local version 0.3.15 and client version 0.3.15
-[00:13:36] [Server thread/INFO]: Player RekoXX joined with a matching carpet client
-[00:13:36] [Server thread/INFO]: [ShulkerBoxTooltip] RekoXX: protocol version: 2.0
-[00:14:12] [Server thread/INFO]: [fetiet: Teleported RekoXX to fetiet]
-[00:15:12] [Server thread/INFO]: SZYZBG lost connection: Disconnected
-[00:15:12] [Server thread/INFO]: SZYZBG left the game
-[00:16:35] [Server thread/INFO]: Evan was blown up by Creeper
-[00:16:47] [Server thread/INFO]: [fetiet: Teleported RekoXX to fetiet]
-[00:17:17] [Server thread/INFO]: [Evan: Teleported Evan to fetiet]
-[00:17:43] [Server thread/INFO]: Evan lost connection: Disconnected
-[00:17:44] [Server thread/INFO]: Evan left the game
-[00:19:31] [Server thread/INFO]: RekoXX has made the advancement [Fishy Business]
-[00:43:59] [Server thread/INFO]: RekoXX lost connection: Disconnected
-[00:43:59] [Server thread/INFO]: RekoXX left the game
-[00:44:07] [Netty Epoll Server IO #4/INFO]: Policy of RekoXX is: online
-[00:47:38] [Server thread/INFO]: RekoXX[/4.182.52.13:6716] logged in with entity id 44291 at (-437.07197952413674, 67.0, -2609.9698376787055)
-[00:47:38] [Server thread/INFO]: RekoXX joined the game
-[00:47:40] [Server thread/INFO]: Player RekoXX joined with a matching carpet client
-[00:47:40] [Server thread/INFO]: [ShulkerBoxTooltip] RekoXX: protocol version: 2.0
-[00:47:40] [Server thread/INFO]: Syncmatica client joining with local version 0.3.15 and client version 0.3.15
-[00:51:52] [Server thread/INFO]: fetiet has made the advancement [What a Deal!]
-[01:01:02] [Server thread/INFO]: [fetiet: Set the time to 13000]
-[01:01:26] [Server thread/INFO]: [fetiet: Set the time to 1000]
-[01:15:57] [Server thread/INFO]: [fetiet: Gave 1 [Lectern] to fetiet]
-[01:22:01] [Server thread/INFO]: [fetiet: Teleported fetiet to RekoXX]
-[01:32:59] [Server thread/INFO]: Villager class_1646['Cleric'/27471, l='ServerLevel[world]', x=-380.41, y=63.00, z=-2637.94] died, message: 'Cleric burned to death'
-[01:42:44] [Server thread/INFO]: Villager class_1646['Butcher'/27498, l='ServerLevel[world]', x=-383.38, y=63.58, z=-2650.23] died, message: 'Butcher tried to swim in lava'
-[01:43:57] [Server thread/INFO]: Villager class_1646['Weaponsmith'/27456, l='ServerLevel[world]', x=-381.17, y=63.00, z=-2649.18] died, message: 'Weaponsmith tried to swim in lava'
-[01:51:53] [Server thread/INFO]: [Not Secure] <fetiet> 没了吗
-[01:55:18] [Server thread/INFO]: RekoXX lost connection: Disconnected
-[01:55:18] [Server thread/INFO]: RekoXX left the game
-[02:00:45] [Server thread/INFO]: Villager class_1646['Fletcher'/27455, l='ServerLevel[world]', x=-390.52, y=63.63, z=-2652.13] died, message: 'Fletcher was slain by Drowned'
-[02:08:12] [Server thread/INFO]: [fetiet: Gave 1 [Iron Door] to fetiet]
-[03:01:15] [Server thread/INFO]: Villager class_1646['Cartographer'/27415, l='ServerLevel[world]', x=-390.05, y=63.00, z=-2664.97] died, message: 'Cartographer was slain by Drowned'
-[03:02:17] [Server thread/INFO]: Villager class_1646['Armorer'/27520, l='ServerLevel[world]', x=-392.86, y=63.56, z=-2655.12] died, message: 'Armorer was slain by Drowned'
-[03:37:24] [Netty Epoll Server IO #10/ERROR]: Error sending packet clientbound/minecraft:disconnect
-io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/minecraft:disconnect'
-	at knot/net.minecraft.class_9136.method_56426(class_9136.java:50) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_9136.encode(class_9136.java:14) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_2545.method_10838(class_2545.java:26) [server-intermediary.jar:?]
-	at knot/net.minecraft.class_2545.encode(class_2545.java:12) [server-intermediary.jar:?]
-	at knot/io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:107) [netty-codec-4.1.118.Final.jar:?]
-	at knot/io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:893) [netty-transport-4.1.118.Final.jar:?]
-	at knot/io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:875) [netty-transport-4.1.118.Final.jar:?]
-	at knot/io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:984) [netty-transport-4.1.118.Final.jar:?]
-	at knot/io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:868) [netty-transport-4.1.118.Final.jar:?]
-	at knot/io.netty.channel.ChannelOutboundHandlerAdapter.write(ChannelOutboundHandlerAdapter.java:113) [netty-transport-4.1.118.Final.jar:?]
-	at knot/net.minecraft.class_2535$2.write(class_2535.java:524) [server-intermediary.jar:?]
-	at knot/io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:893) [netty-transport-4.1.118.Final.jar:?]
-	at knot/io.netty.channel.AbstractChannelHandlerContext.invokeWriteAndFlush(AbstractChannelHandlerContext.java:956) [netty-transport-4.1.118.Final.jar:?]
-	at knot/io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:982) [netty-transport-4.1.118.Final.jar:?]
-	at knot/io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:950) [netty-transport-4.1.118.Final.jar:?]
-	at knot/io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:1000) [netty-transport-4.1.118.Final.jar:?]
-	at knot/io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:974) [netty-transport-4.1.118.Final.jar:?]
-	at knot/io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:305) [netty-transport-4.1.118.Final.jar:?]
-	at knot/net.minecraft.class_2535.method_36942(class_2535.java:350) [server-intermediary.jar:?]
-	at knot/net.minecraft.class_2535.method_10764(class_2535.java:342) [server-intermediary.jar:?]
-	at knot/net.minecraft.class_2535.method_52906(class_2535.java:324) [server-intermediary.jar:?]
-	at knot/net.minecraft.class_2535.method_10752(class_2535.java:318) [server-intermediary.jar:?]
-	at knot/net.minecraft.class_2535.exceptionCaught(class_2535.java:169) [server-intermediary.jar:?]
-	at knot/io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:346) [netty-transport-4.1.118.Final.jar:?]
-	at knot/io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:325) [netty-transport-4.1.118.Final.jar:?]
-	at knot/io.netty.channel.AbstractChannelHandlerContext.fireExceptionCaught(AbstractChannelHandlerContext.java:317) [netty-transport-4.1.118.Final.jar:?]
-	at knot/io.netty.channel.DefaultChannelPipeline$HeadContext.exceptionCaught(DefaultChannelPipeline.java:1324) [netty-transport-4.1.118.Final.jar:?]
-	at knot/io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:346) [netty-transport-4.1.118.Final.jar:?]
-	at knot/io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:325) [netty-transport-4.1.118.Final.jar:?]
-	at knot/io.netty.channel.DefaultChannelPipeline.fireExceptionCaught(DefaultChannelPipeline.java:856) [netty-transport-4.1.118.Final.jar:?]
-	at knot/io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.handleReadException(AbstractEpollStreamChannel.java:727) [netty-transport-classes-epoll-4.1.118.Final.jar:?]
-	at knot/io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:825) [netty-transport-classes-epoll-4.1.118.Final.jar:?]
-	at knot/io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:501) [netty-transport-classes-epoll-4.1.118.Final.jar:?]
-	at knot/io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:399) [netty-transport-classes-epoll-4.1.118.Final.jar:?]
-	at knot/io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:998) [netty-common-4.1.118.Final.jar:?]
-	at knot/io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) [netty-common-4.1.118.Final.jar:?]
-	at java.base/java.lang.Thread.run(Thread.java:1474) [?:?]
-[03:39:37] [Server thread/INFO]: Villager class_1646['Mason'/27443, l='ServerLevel[world]', x=-393.26, y=63.00, z=-2648.43] died, message: 'Mason was slain by Zombie'
-[03:39:50] [Server thread/INFO]: Villager class_1646['Toolsmith'/27521, l='ServerLevel[world]', x=-386.77, y=63.00, z=-2659.67] died, message: 'Toolsmith was slain by Zombie'
-[03:42:35] [Server thread/INFO]: fetiet lost connection: Disconnected
-[03:42:35] [Server thread/INFO]: fetiet left the game
-[03:43:35] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[09:02:57] [Netty Epoll Server IO #5/INFO]: Policy of fetiet is: online
-[09:03:13] [Server thread/INFO]: fetiet[/116.6.234.162:42614] logged in with entity id 71962 at (-438.69599456534394, 67.0, -2610.6707224556385)
-[09:03:13] [Server thread/INFO]: fetiet joined the game
-[09:03:14] [Server thread/INFO]: Syncmatica client joining with local version 0.3.15 and client version 0.3.15
-[09:03:15] [Server thread/INFO]: Player fetiet joined with a matching carpet client
-[09:03:15] [Server thread/INFO]: [ShulkerBoxTooltip] fetiet: protocol version: 2.0
-[09:08:13] [Server thread/WARN]: fetiet was kicked for floating too long!
-[09:08:13] [Server thread/INFO]: fetiet lost connection: Flying is not enabled on this server
-[09:08:13] [Server thread/INFO]: fetiet left the game
-[09:09:13] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[09:50:59] [main/INFO]: Loading Minecraft 1.21.10 with Fabric Loader 0.18.1
+[09:50:59] [ForkJoinPool-1-worker-15/WARN]: Mod dev_isxander_libsdl4j uses the version 3.2.18.release-3.2.18-79 which isn't compatible with Loader's extended semantic version format (Could not parse version number component 'release'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[09:51:00] [main/INFO]: Loading 136 mods:
+	- appleskin 3.0.7+mc1.21.9
+	- architectury 18.0.6
+	- badpackets 0.10.2
+	- balm 21.10.8
+	   \-- kuma_api 21.10.5
+	- betterstats 4.0.0+fabric-1.21.10
+	- c2me 0.3.6+alpha.0.9+1.21.10
+	   |-- c2me-base 0.3.6+alpha.0.9+1.21.10
+	   |-- c2me-client-uncapvd 0.3.6+alpha.0.9+1.21.10
+	   |-- c2me-fixes-chunkio-threading-issues 0.3.6+alpha.0.9+1.21.10
+	   |-- c2me-fixes-general-threading-issues 0.3.6+alpha.0.9+1.21.10
+	   |-- c2me-fixes-worldgen-threading-issues 0.3.6+alpha.0.9+1.21.10
+	   |-- c2me-fixes-worldgen-vanilla-bugs 0.3.6+alpha.0.9+1.21.10
+	   |-- c2me-notickvd 0.3.6+alpha.0.9+1.21.10
+	   |-- c2me-opts-allocs 0.3.6+alpha.0.9+1.21.10
+	   |-- c2me-opts-chunkio 0.3.6+alpha.0.9+1.21.10
+	   |-- c2me-opts-dfc 0.3.6+alpha.0.9+1.21.10
+	   |-- c2me-opts-math 0.3.6+alpha.0.9+1.21.10
+	   |-- c2me-opts-natives-math 0.3.6+alpha.0.9+1.21.10
+	   |-- c2me-opts-scheduling 0.3.6+alpha.0.9+1.21.10
+	   |-- c2me-opts-worldgen-general 0.3.6+alpha.0.9+1.21.10
+	   |-- c2me-opts-worldgen-vanilla 0.3.6+alpha.0.9+1.21.10
+	   |-- c2me-rewrites-chunk-serializer 0.3.6+alpha.0.9+1.21.10
+	   |-- c2me-rewrites-chunk-system 0.3.6+alpha.0.9+1.21.10
+	   |-- c2me-rewrites-chunkio 0.3.6+alpha.0.9+1.21.10
+	   |-- c2me-server-utils 0.3.6+alpha.0.9+1.21.10
+	   |-- c2me-threading-lighting 0.3.6+alpha.0.9+1.21.10
+	   |-- com_ibm_async_asyncutil 0.1.0
+	   |-- io_reactivex_rxjava3_rxjava 3.1.12
+	   |-- mixinsquared 0.2.0-beta.6
+	   |-- net_objecthunter_exp4j 0.4.8
+	   |-- org_jctools_jctools-core 4.0.5
+	   \-- org_reactivestreams_reactive-streams 1.0.4
+	- carpet 1.4.188+v251016
+	- cloth-config 20.0.149
+	   \-- cloth-basic-math 0.6.1
+	- controlify 2.4.2+1.21.10-fabric
+	   |-- dev_isxander_libsdl4j 3.2.18.release-3.2.18-79
+	   |-- dev_isxander_steamdeck4j 1.1.7
+	   \-- org_hid4java_hid4java 0.8.0
+	- crash_assistant 1.10.23
+	- dynamiccrosshair 9.10
+	   |-- dynamiccrosshair-api 1.2
+	   \-- libbamboo 2.23
+	- eclipsestweakeroo 0.6.7-1.21.10
+	- entityculling 1.9.3
+	   |-- transition 1.0.8
+	   \-- trender 1.0.8
+	- fabric-api 0.138.3+1.21.10
+	   |-- fabric-api-base 1.0.0+14b92d896f
+	   |-- fabric-api-lookup-api-v1 1.6.106+d17682156f
+	   |-- fabric-biome-api-v1 16.1.0+c2417d4f6f
+	   |-- fabric-block-api-v1 1.1.5+d17682156f
+	   |-- fabric-block-view-api-v2 1.0.34+e4fd1b926f
+	   |-- fabric-command-api-v2 2.4.0+c0ab2d5d6f
+	   |-- fabric-content-registries-v0 10.2.6+b6a242646f
+	   |-- fabric-convention-tags-v1 2.1.49+7f945d5b6f
+	   |-- fabric-convention-tags-v2 2.17.0+ff7bc77d6f
+	   |-- fabric-crash-report-info-v1 0.3.18+33df5e6e6f
+	   |-- fabric-data-attachment-api-v1 1.8.33+cd3b9e596f
+	   |-- fabric-data-generation-api-v1 23.2.27+d8b85ef16f
+	   |-- fabric-dimensions-v1 4.0.22+38b9cc196f
+	   |-- fabric-entity-events-v1 2.1.13+fde3702c6f
+	   |-- fabric-events-interaction-v0 4.0.36+5ba217126f
+	   |-- fabric-game-rule-api-v1 1.1.1+e47eaae56f
+	   |-- fabric-item-api-v1 11.5.11+9bce411b6f
+	   |-- fabric-item-group-api-v1 4.2.27+86b3ae576f
+	   |-- fabric-key-binding-api-v1 1.1.1+b3ba9c486f
+	   |-- fabric-lifecycle-events-v1 2.6.9+33df5e6e6f
+	   |-- fabric-loot-api-v2 3.0.67+3f89f5a56f
+	   |-- fabric-loot-api-v3 2.0.14+d17682156f
+	   |-- fabric-message-api-v1 6.1.7+3154c1c86f
+	   |-- fabric-model-loading-api-v1 6.0.4+3ffd6ef06f
+	   |-- fabric-networking-api-v1 5.1.0+b095d8db6f
+	   |-- fabric-object-builder-api-v1 21.1.28+9bce411b6f
+	   |-- fabric-particles-v1 4.2.3+a0ee59a46f
+	   |-- fabric-recipe-api-v1 8.2.0+39709ef06f
+	   |-- fabric-registry-sync-v0 6.1.42+679c8c5c6f
+	   |-- fabric-renderer-api-v1 7.2.2+3706cdf36f
+	   |-- fabric-renderer-indigo 4.1.3+d7df91576f
+	   |-- fabric-rendering-fluids-v1 3.1.38+86b3ae576f
+	   |-- fabric-rendering-v1 16.2.0+bee81f016f
+	   |-- fabric-resource-conditions-api-v1 5.0.28+33df5e6e6f
+	   |-- fabric-resource-loader-v0 3.3.1+d4d4122a6f
+	   |-- fabric-resource-loader-v1 1.0.4+14959b836f
+	   |-- fabric-screen-api-v1 3.1.0+9c82a7986f
+	   |-- fabric-screen-handler-api-v1 1.3.151+d17682156f
+	   |-- fabric-serialization-api-v1 1.0.0+d857c9766f
+	   |-- fabric-sound-api-v1 1.0.45+328a75ba6f
+	   |-- fabric-tag-api-v1 1.2.13+2fa446b26f
+	   |-- fabric-transfer-api-v1 6.0.15+79ec2c126f
+	   \-- fabric-transitive-access-wideners-v1 6.5.3+41eb43436f
+	- fabric-language-kotlin 1.13.7+kotlin.2.2.21
+	   |-- org_jetbrains_kotlin_kotlin-reflect 2.2.21
+	   |-- org_jetbrains_kotlin_kotlin-stdlib 2.2.21
+	   |-- org_jetbrains_kotlin_kotlin-stdlib-jdk7 2.2.21
+	   |-- org_jetbrains_kotlin_kotlin-stdlib-jdk8 2.2.21
+	   |-- org_jetbrains_kotlinx_atomicfu-jvm 0.29.0
+	   |-- org_jetbrains_kotlinx_kotlinx-coroutines-core-jvm 1.10.2
+	   |-- org_jetbrains_kotlinx_kotlinx-coroutines-jdk8 1.10.2
+	   |-- org_jetbrains_kotlinx_kotlinx-datetime-jvm 0.7.1
+	   |-- org_jetbrains_kotlinx_kotlinx-io-bytestring-jvm 0.8.0
+	   |-- org_jetbrains_kotlinx_kotlinx-io-core-jvm 0.8.0
+	   |-- org_jetbrains_kotlinx_kotlinx-serialization-cbor-jvm 1.9.0
+	   |-- org_jetbrains_kotlinx_kotlinx-serialization-core-jvm 1.9.0
+	   \-- org_jetbrains_kotlinx_kotlinx-serialization-json-jvm 1.9.0
+	- fabricloader 0.18.1
+	   \-- mixinextras 0.5.0
+	- ferritecore 8.0.2
+	- forgeconfigapiport 21.10.1
+	   |-- com_electronwill_night-config_core 3.8.3
+	   \-- com_electronwill_night-config_toml 3.8.3
+	- fzzy_config 0.7.3+1.21.9
+	   |-- blue_endless_jankson 1.2.3
+	   \-- net_peanuuutz_tomlkt_tomlkt-jvm 0.3.7
+	- java 25
+	- jei 26.1.1.25
+	- lithium 0.20.1+mc1.21.10
+	- mcwifipnp 1.9.7
+	- midnightlib 1.9.1
+	- minecraft 1.21.10
+	- mixintrace 1.1.1+1.17
+	- naturescompass 1.21.10-2.2.9-fabric
+	- nemos_inventory_sorting 1.21.10-1.14.7
+	- notenoughanimations 1.10.6
+	   \-- trender 1.0.8
+	- prickle 21.10.2
+	- shulkerboxtooltip 5.2.12+1.21.9
+	- syncmatica 0.3.15
+	   \-- fabric-permissions-api-v0 0.4.1
+	- tcdcommons 4.0.1+fabric-1.21.10
+	- trashslot 21.10.2
+	- worldedit 7.4.0-beta-01+ae062ca
+	   \-- worldeditcui_protocol 4.0.2
+	- wthit 17.3.3
+	- xaerominimap 25.2.15
+	- xaeroworldmap 1.39.17
+	- yet_another_config_lib_v3 3.8.0+1.21.9-fabric
+	   |-- com_twelvemonkeys_common_common-image 3.12.0
+	   |-- com_twelvemonkeys_common_common-io 3.12.0
+	   |-- com_twelvemonkeys_common_common-lang 3.12.0
+	   |-- com_twelvemonkeys_imageio_imageio-core 3.12.0
+	   |-- com_twelvemonkeys_imageio_imageio-metadata 3.12.0
+	   |-- com_twelvemonkeys_imageio_imageio-webp 3.12.0
+	   |-- org_quiltmc_parsers_gson 0.2.1
+	   \-- org_quiltmc_parsers_json 0.2.1
+[09:51:00] [main/WARN]: launchTarget: SERVER. Crash Assistant is client only mod. Mod will do nothing!
+[09:51:00] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/home/mcjserver/libraries/net/fabricmc/sponge-mixin/0.16.5+mixin.0.8.7/sponge-mixin-0.16.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[09:51:00] [main/INFO]: Compatibility level set to JAVA_21
+[09:51:00] [main/INFO]: Initializing com.ishland.c2me.base.mixin
+[09:51:00] [main/INFO]: Global Executor Parallelism: 5 configured, 5 evaluated, 5 default evaluated
+[09:51:00] [main/INFO]: Initializing com.ishland.c2me.fixes.chunkio.threading_issues.mixin
+[09:51:00] [main/INFO]: Initializing com.ishland.c2me.fixes.general.threading_issues.mixin
+[09:51:00] [main/INFO]: Initializing com.ishland.c2me.fixes.worldgen.threading_issues.mixin
+[09:51:00] [main/INFO]: Initializing com.ishland.c2me.fixes.worldgen.vanilla_bugs.mixin
+[09:51:00] [main/INFO]: Initializing com.ishland.c2me.notickvd.mixin
+[09:51:00] [main/INFO]: Initializing com.ishland.c2me.opts.allocs.mixin
+[09:51:00] [main/INFO]: Initializing com.ishland.c2me.opts.chunkio.mixin
+[09:51:00] [main/INFO]: Initializing com.ishland.c2me.opts.dfc.mixin
+[09:51:00] [main/INFO]: Initializing com.ishland.c2me.opts.math.mixin
+[09:51:00] [main/INFO]: Initializing com.ishland.c2me.opts.natives_math.mixin
+[09:51:00] [main/INFO]: Attempting to call native library. If your game crashes right after this point, native acceleration may not be available for your system.
+[09:51:00] [main/INFO]: Detected maximum supported ISA target: AVX2
+[09:51:00] [main/INFO]: Initializing com.ishland.c2me.opts.scheduling.mixin
+[09:51:00] [main/INFO]: Initializing com.ishland.c2me.opts.worldgen.general.mixin
+[09:51:00] [main/INFO]: Initializing com.ishland.c2me.opts.worldgen.vanilla.mixin
+[09:51:00] [main/INFO]: Initializing com.ishland.c2me.rewrites.chunk_serializer.mixin
+[09:51:00] [main/INFO]: Disabling config ioSystem.gcFreeChunkSerializer: Incompatible with architectury@18.0.6 (*) (defined in c2me)
+[09:51:00] [main/INFO]: Disabling com.ishland.c2me.rewrites.chunk_serializer.mixin
+[09:51:00] [main/INFO]: Initializing com.ishland.c2me.rewrites.chunksystem.mixin
+[09:51:00] [main/INFO]: Initializing com.ishland.c2me.rewrites.chunkio.mixin
+[09:51:00] [main/INFO]: Initializing com.ishland.c2me.server.utils.mixin
+[09:51:00] [main/INFO]: Initializing com.ishland.c2me.threading.lighting.mixin
+[09:51:01] [main/WARN]: Reference map 'forgeconfigapiport.common.refmap.json' for forgeconfigapiport.common.mixins.json could not be read. If this is a development environment you can ignore this message
+[09:51:01] [main/WARN]: Reference map 'forgeconfigapiport.fabric.refmap.json' for forgeconfigapiport.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[09:51:01] [main/INFO]: Loaded configuration file for Lithium: 165 options available, 1 override(s) found.
+[09:51:01] [main/WARN]: Reference map 'prickle.refmap.json' for prickle.mixins.json could not be read. If this is a development environment you can ignore this message
+[09:51:01] [main/WARN]: Reference map 'prickle.refmap.json' for prickle.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[09:51:01] [main/WARN]: Reference map 'trashslot.refmap.json' for trashslot.mixins.json could not be read. If this is a development environment you can ignore this message
+[09:51:01] [main/WARN]: Reference map 'trashslot.refmap.json' for trashslot.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[09:51:01] [main/WARN]: Reference map 'yet_another_config_lib_v3.refmap.json' for yacl.mixins.json could not be read. If this is a development environment you can ignore this message
+[09:51:01] [main/WARN]: Reference map 'yet_another_config_lib_v3.refmap.json' for yacl-fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[09:51:01] [main/WARN]: Error loading class: ca/spottedleaf/starlight/common/thread/SchedulingUtil (java.lang.ClassNotFoundException: ca/spottedleaf/starlight/common/thread/SchedulingUtil)
+[09:51:01] [main/INFO]: Force-enabling mixin 'compat.worldedit.LevelChunkMixin' as rule 'mixin.compat.worldedit' (added by mods [lithium]) enables it
+[09:51:01] [main/WARN]: [carpet] detected, disabling UPDATE mixin com.sk89q.worldedit.fabric.mixin.MixinLevelChunkSetBlockHook
+[09:51:02] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.5.0).
+[09:51:06] [main/WARN]: Method overwrite conflict for getClimateSettings in architectury.mixins.json:BiomeAccessor from mod architectury, previously written by carpet.mixins.Biome_scarpetMixin. Skipping method.
+[09:51:12] [main/INFO]: Got request to register class com.sk89q.worldedit.fabric.FabricPlatform with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@6015ccfe]
+[09:51:12] [main/WARN]: Failed to load Fabric permissions provider. Falling back to Minecraft
+java.lang.RuntimeException: Fabric permissions version 0.4.1 is not supported. Please update Fabric Permissions API
+	at knot/com.sk89q.worldedit.fabric.FabricWorldEdit.getInitialPermissionsProvider(FabricWorldEdit.java:223) [worldedit-mod-7.4.0-beta-01.jar:?]
+	at knot/com.sk89q.worldedit.fabric.FabricWorldEdit.onInitialize(FabricWorldEdit.java:177) [worldedit-mod-7.4.0-beta-01.jar:?]
+	at net.fabricmc.loader.impl.FabricLoaderImpl.invokeEntrypoints(FabricLoaderImpl.java:405) [fabric-loader-0.18.1.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.Hooks.startServer(Hooks.java:63) [fabric-loader-0.18.1.jar:?]
+	at knot/net.minecraft.server.Main.main(Main.java:112) [server-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:514) [fabric-loader-0.18.1.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:72) [fabric-loader-0.18.1.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.18.1.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.18.1.jar:?]
+[09:51:12] [main/INFO]: WorldEdit for Fabric (version 7.4.0-beta-01+ae062ca) is loaded
+[09:51:12] [main/INFO]: [WTHIT] Initializing common plugin waila:core at mcp.mobius.waila.plugin.core.CoreCommonPlugin
+[09:51:12] [main/INFO]: [WTHIT] Initializing common plugin waila:vanilla at mcp.mobius.waila.plugin.vanilla.VanillaCommonPlugin
+[09:51:12] [main/INFO]: [WTHIT] Initializing common plugin waila:harvest at mcp.mobius.waila.plugin.harvest.HarvestCommonPlugin
+[09:51:12] [main/INFO]: [WTHIT] Initializing common plugin waila:fabric at mcp.mobius.waila.plugin.fabric.FabricCommonPlugin
+[09:51:12] [main/INFO]: [WTHIT] Initializing common plugin waila:extra at mcp.mobius.waila.plugin.extra.ExtraPlugin
+[09:51:13] [main/INFO]: [WTHIT] Plugin config reloaded
+[09:51:13] [main/INFO]: Initializing 'Better Statistics Screen' as 'BetterStatsServer'.
+[09:51:13] [main/INFO]: Registering C2S receiver with id betterstats:c2s_bss
+[09:51:13] [main/INFO]: Registering C2S receiver with id betterstats:c2s_prf
+[09:51:13] [main/INFO]: Registering C2S receiver with id betterstats:c2s_mcbs_req
+[09:51:13] [main/INFO]: Deserializing ControlifyServerConfig from './config/controlify.json'
+[09:51:13] [main/INFO]: Serializing class dev.isxander.controlify.server.ControlifyServerConfig to './config/controlify.json'
+[09:51:13] [main/INFO]: Reach-around policy: true
+[09:51:13] [main/INFO]: No-fly drift policy: true
+[09:51:13] [main/INFO]: Enforce keyboard-like movement: false
+[09:51:13] [main/INFO]: Initializing 'TCDCommons API' 4.0.1+fabric-1.21.10 as 'TCDCommonsServer'.
+[09:51:13] [main/INFO]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[09:51:13] [main/INFO]: Loading Xaero's World Map - Stage 1/2 (Server)
+[09:51:13] [main/WARN]: You specified a resource pack without providing a sha1 hash. Pack will be updated on the client only if you change the name of the pack.
+[09:51:13] [main/WARN]: resource-pack-id missing, using default of c4c3e009-1113-3421-9b5a-89345e0fd653
+[09:51:13] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[09:51:13] [main/INFO]: Found new data pack naturescompass, loading it automatically
+[09:51:16] [Worker-Main-3/INFO]: Registering commands with com.sk89q.worldedit.fabric.FabricPlatform
+[09:51:16] [Worker-Main-3/INFO]: UUID Fixer has been enabled on the dedicated server.To disable, delete mod McWifiPnP. Config file is "uuid_fixer.json".
+[09:51:16] [main/INFO]: Loaded 1462 recipes
+[09:51:16] [main/INFO]: Loaded 1575 advancements
+[09:51:17] [main/INFO]: Applied 0 biome modifications to 0 of 65 new biomes in 6.244 ms
+[09:51:17] [Server thread/INFO]: [WTHIT] Plugin config reloaded
+[09:51:17] [Server thread/INFO]: Starting minecraft server version 1.21.10
+[09:51:17] [Server thread/INFO]: Loading properties
+[09:51:17] [Server thread/INFO]: Default game type: SURVIVAL
+[09:51:17] [Server thread/INFO]: Generating keypair
+[09:51:17] [Server thread/INFO]: Starting Minecraft server on *:25565
+[09:51:17] [Server thread/INFO]: Using epoll channel type
+[09:51:17] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[09:51:17] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[09:51:17] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[09:51:17] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[09:51:17] [Server thread/INFO]: Preparing level "world"
+[09:51:17] [Server thread/INFO]: Enforcing safe world random access
+[09:51:18] [Server thread/INFO]: [STDOUT]: Density function compilation finished in 298.1 ms
+[09:51:18] [Server thread/INFO]: Using TheSpeedyObjectFactory with Unsafe
+[09:51:18] [Server thread/INFO]: [STDOUT]: Density function compilation finished in 17.12 ms
+[09:51:18] [Server thread/INFO]: [STDOUT]: Density function compilation finished in 10.35 ms
+[09:51:18] [Server thread/INFO]: Loading 0 persistent chunks...
+[09:51:18] [Server thread/INFO]: Preparing spawn area: 100%
+[09:51:18] [Server thread/INFO]: Time elapsed: 12 ms
+[09:51:18] [Server thread/INFO]: Done (1.375s)! For help, type "help"
+[09:51:20] [Server thread/INFO]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[09:51:20] [Server thread/INFO]: Loading Xaero's World Map - Stage 2/2 (Server)
+[09:52:20] [Server thread/INFO]: Server empty for 60 seconds, pausing
