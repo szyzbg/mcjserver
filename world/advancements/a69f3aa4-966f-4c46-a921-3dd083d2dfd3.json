@@ -459,6 +459,8 @@
       "minecraft:skeleton": "2025-11-25 21:45:17 +0800",
       "minecraft:piglin": "2025-12-02 10:22:29 +0800",
       "minecraft:zombified_piglin": "2025-12-02 10:16:56 +0800",
+      "minecraft:silverfish": "2025-12-03 22:44:13 +0800",
+      "minecraft:magma_cube": "2025-12-03 19:19:27 +0800",
       "minecraft:spider": "2025-11-27 23:34:33 +0800",
       "minecraft:zombie": "2025-11-27 19:05:48 +0800",
       "minecraft:creeper": "2025-11-28 17:51:29 +0800",
@@ -2957,6 +2959,60 @@
   "minecraft:adventure/ol_betsy": {
     "criteria": {
       "shot_crossbow": "2025-12-02 18:36:45 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
+    "criteria": {
+      "has_warped_fungus": "2025-12-03 10:08:09 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-12-03 10:13:10 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-12-03 10:13:10 +0800"
+    },
+    "done": true
+  },
+  "minecraft:nether/distract_piglin": {
+    "criteria": {
+      "distract_piglin": "2025-12-03 10:14:47 +0800"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-12-03 10:15:07 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_bricks": {
+    "criteria": {
+      "has_nether_brick": "2025-12-03 10:15:07 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2025-12-03 10:15:07 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-12-03 10:15:16 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-12-03 10:15:16 +0800"
     },
     "done": true
   },

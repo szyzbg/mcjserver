@@ -1,180 +1,166 @@
-[00:00:01] [Server thread/INFO]: RekoXX (9e8e52e4-b894-4351-aa72-a91ae9696481) lost connection: Disconnected
-[00:00:05] [Server thread/INFO]: [fetiet: Teleported fetiet to -385.500000, 63.500000, -2667.500000]
-[00:00:11] [Server thread/INFO]: [ppp204: Teleported ppp204 to -586.500000, 0.500000, -2672.500000]
-[00:00:14] [Netty Epoll Server IO #5/INFO]: Policy of RekoXX is: online
-[00:00:17] [Server thread/INFO]: RekoXX (9e8e52e4-b894-4351-aa72-a91ae9696481) lost connection: Disconnected
-[00:00:30] [Server thread/INFO]: [fetiet: Set the time to 1000]
-[00:00:47] [Server thread/INFO]: [fetiet: Teleported fetiet to ppp204]
-[00:01:12] [Server thread/INFO]: [fetiet: Teleported fetiet to -385.500000, 63.500000, -2667.500000]
-[00:01:32] [Server thread/INFO]: [Not Secure] <ppp204> 你掉语音了
-[00:01:32] [Server thread/INFO]: [Not Secure] <ppp204> sb
-[00:01:34] [Server thread/INFO]: [fetiet: Teleported fetiet to 1111.500000, 78.500000, -1386.500000]
-[00:02:43] [Netty Epoll Server IO #7/INFO]: Policy of RekoXX is: online
-[00:02:46] [Server thread/INFO]: RekoXX (9e8e52e4-b894-4351-aa72-a91ae9696481) lost connection: Disconnected
-[00:03:04] [Server thread/INFO]: [Not Secure] [Server] rekoxx用的是美国的网
-[00:03:25] [Server thread/INFO]: [Not Secure] <ppp204> 666
-[00:03:25] [Server thread/WARN]: ppp204 moved too quickly! 7.506626179739669,-0.5358406250445569,6.8513909576540755
-[00:03:45] [Server thread/INFO]: [fetiet: Teleported fetiet to 991.500000, 85.500000, -1945.500000]
-[00:03:56] [Netty Epoll Server IO #10/INFO]: Policy of RekoXX is: online
-[00:03:59] [Server thread/INFO]: RekoXX (9e8e52e4-b894-4351-aa72-a91ae9696481) lost connection: Disconnected
-[00:04:09] [Netty Epoll Server IO #11/INFO]: Policy of RekoXX is: online
-[00:04:10] [Server thread/INFO]: RekoXX (9e8e52e4-b894-4351-aa72-a91ae9696481) lost connection: Disconnected
-[00:05:04] [Server thread/INFO]: [fetiet: Teleported fetiet to 1134.500000, 68.500000, -1444.500000]
-[00:06:02] [Netty Epoll Server IO #13/INFO]: Policy of RekoXX is: online
-[00:06:03] [Server thread/INFO]: RekoXX (9e8e52e4-b894-4351-aa72-a91ae9696481) lost connection: Disconnected
-[00:08:30] [Netty Epoll Server IO #17/INFO]: Policy of RekoXX is: online
-[00:08:55] [Server thread/INFO]: RekoXX[/20.97.44.44:5176] logged in with entity id 10913 at (-440.07499998807907, 67.0, -2610.6245395472342)
-[00:08:55] [Server thread/INFO]: RekoXX joined the game
-[00:08:56] [Server thread/INFO]: Syncmatica client joining with local version 0.3.15 and client version 0.3.15
-[00:08:58] [Server thread/INFO]: Player RekoXX joined with a matching carpet client
-[00:08:58] [Server thread/INFO]: [ShulkerBoxTooltip] RekoXX: protocol version: 2.0
-[00:09:02] [Server thread/INFO]: Starting search: 64 sample space, 50000 max samples, 10000 max radius
-[00:09:03] [Server thread/INFO]: Search succeeded: 3177 radius, 3333 samples
-[00:09:09] [Server thread/INFO]: [ppp204: Teleported ppp204 to fetiet]
-[00:10:10] [Server thread/INFO]: ppp204 has made the advancement [Not Today, Thank You]
-[00:10:45] [Server thread/INFO]: ppp204 was slain by Zombie
-[00:10:48] [Server thread/INFO]: [Not Secure] <ppp204> ...
-[00:10:54] [Server thread/INFO]: [ppp204: Teleported ppp204 to fetiet]
-[00:11:07] [Server thread/INFO]: [fetiet: Set the time to 1000]
-[00:11:55] [Server thread/INFO]: [Not Secure] <ppp204> shei
-[00:13:13] [Server thread/INFO]: [Not Secure] <ppp204> wu
-[00:18:17] [Netty Epoll Server IO #20/INFO]: Policy of SZYZBG is: online
-[00:18:20] [Server thread/INFO]: SZYZBG (a69f3aa4-966f-4c46-a921-3dd083d2dfd3) lost connection: Disconnected
-[00:18:22] [Netty Epoll Server IO #21/INFO]: Policy of SZYZBG is: online
-[00:18:38] [Server thread/INFO]: [fetiet: Teleported fetiet to ppp204]
-[00:19:14] [Server thread/INFO]: fetiet was killed
-[00:19:14] [Server thread/INFO]: [fetiet: Killed fetiet]
-[00:19:16] [Server thread/INFO]: SZYZBG (a69f3aa4-966f-4c46-a921-3dd083d2dfd3) lost connection: Disconnected
-[00:19:47] [Netty Epoll Server IO #23/INFO]: Policy of SZYZBG is: online
-[00:20:27] [Server thread/INFO]: SZYZBG[/110.65.147.230:60856] logged in with entity id 16599 at (-393.5591148719962, 64.0, -2670.600177738065)
-[00:20:27] [Server thread/INFO]: SZYZBG joined the game
-[00:20:29] [Server thread/INFO]: [ShulkerBoxTooltip] SZYZBG: protocol version: 2.0
-[00:20:29] [Server thread/INFO]: Player SZYZBG joined with a matching carpet client
-[00:20:30] [Server thread/INFO]: Syncmatica client joining with local version 0.3.15 and client version 0.3.15
-[00:21:06] [Server thread/INFO]: [Not Secure] <ppp204> 我这儿有线但不多
-[00:23:14] [Server thread/INFO]: SZYZBG lost connection: Disconnected
-[00:23:14] [Server thread/INFO]: SZYZBG left the game
-[00:23:37] [Netty Epoll Server IO #1/INFO]: Policy of SZYZBG is: online
-[00:24:17] [Server thread/INFO]: SZYZBG (a69f3aa4-966f-4c46-a921-3dd083d2dfd3) lost connection: Disconnected
-[00:26:11] [Netty Epoll Server IO #5/INFO]: Policy of SZYZBG is: online
-[00:26:49] [Server thread/INFO]: SZYZBG[/110.65.147.230:60860] logged in with entity id 18944 at (-349.2883700353949, 64.0, -2663.9667513335594)
-[00:26:49] [Server thread/INFO]: SZYZBG joined the game
-[00:26:50] [Server thread/INFO]: [ShulkerBoxTooltip] SZYZBG: protocol version: 2.0
-[00:26:51] [Server thread/INFO]: Player SZYZBG joined with a matching carpet client
-[00:26:52] [Server thread/INFO]: Syncmatica client joining with local version 0.3.15 and client version 0.3.15
-[00:27:18] [Server thread/INFO]: SZYZBG lost connection: Disconnected
-[00:27:18] [Server thread/INFO]: SZYZBG left the game
-[00:28:54] [Server thread/INFO]: [Not Secure] <ppp204> shawanyier
-[00:28:56] [Server thread/INFO]: [Not Secure] <ppp204> 啥玩意儿
-[00:29:18] [Netty Epoll Server IO #9/INFO]: Policy of SZYZBG is: online
-[00:29:18] [Server thread/INFO]: [Not Secure] <ppp204> 对要地毯
-[00:29:39] [Server thread/INFO]: SZYZBG (a69f3aa4-966f-4c46-a921-3dd083d2dfd3) lost connection: Disconnected
-[00:29:46] [Server thread/INFO]: [ppp204: Teleported ppp204 to -61.500000, -28.500000, -2454.500000]
-[00:30:11] [Server thread/INFO]: [Not Secure] <ppp204> 你要烧杀
-[00:30:15] [Server thread/INFO]: [ppp204: Teleported ppp204 to fetiet]
-[00:30:25] [Server thread/INFO]: ppp204 fell from a high place
-[00:31:29] [Netty Epoll Server IO #11/INFO]: Policy of SZYZBG is: online
-[00:32:00] [Server thread/INFO]: SZYZBG (a69f3aa4-966f-4c46-a921-3dd083d2dfd3) lost connection: Disconnected
-[00:32:27] [Server thread/INFO]: fetiet has made the advancement [A Seedy Place]
-[00:34:28] [Server thread/INFO]: [Not Secure] <ppp204> 你为啥不搞个地狱交通
-[00:34:35] [Server thread/INFO]: [Not Secure] <ppp204> 地狱1格主世界8格
-[00:34:45] [Server thread/INFO]: [Not Secure] <ppp204> 《也就》
-[00:37:28] [Server thread/INFO]: ppp204 has made the advancement [We Need to Go Deeper]
-[00:37:28] [Server thread/INFO]: [ppp204: Teleported ppp204 to fetiet]
-[00:38:56] [Server thread/INFO]: [Not Secure] <ppp204> 我看不到预览
-[00:39:32] [Server thread/INFO]: [Not Secure] <ppp204> 门不拆吗
-[00:40:02] [Server thread/INFO]: [Not Secure] <ppp204> 然后呢
-[00:40:03] [Server thread/INFO]: [Not Secure] <ppp204> j
-[00:42:26] [Server thread/INFO]: [Not Secure] <ppp204> 怎么导入
-[00:42:28] [Server thread/INFO]: [Not Secure] <ppp204> 不太懂
-[00:46:10] [Server thread/INFO]: [ppp204: Gave 1 [Crafting Table] to ppp204]
-[00:48:57] [Server thread/INFO]: [Not Secure] <ppp204> ?
-[00:49:12] [Server thread/INFO]: [Not Secure] <ppp204> 单呢
-[00:50:10] [Server thread/INFO]: [Not Secure] <fetiet> 我去另一边做处死装置
-[00:51:03] [Server thread/INFO]: [Not Secure] <fetiet> wo
-[00:51:09] [Server thread/INFO]: [Not Secure] <fetiet> 已经刷了好多了
-[00:51:21] [Server thread/INFO]: [fetiet: Killed 28 entities]
-[00:52:08] [Server thread/INFO]: [Not Secure] <fetiet> 你要不先别让他刷
-[00:52:09] [Server thread/INFO]: [Not Secure] <ppp204> 平滑石头
-[00:52:11] [Server thread/INFO]: [Not Secure] <ppp204> 还有没有
-[00:52:21] [Server thread/INFO]: [fetiet: Killed 61 entities]
-[00:52:29] [Server thread/INFO]: [ppp204: Gave 10 [Bread] to ppp204]
-[00:52:29] [Server thread/INFO]: [Not Secure] <fetiet> meiyoule
-[00:52:50] [Server thread/INFO]: ppp204 has made the advancement [Hot Stuff]
-[00:52:50] [Server thread/INFO]: [ppp204: Gave 1 [Lava Bucket] to ppp204]
-[00:52:53] [Server thread/INFO]: [Not Secure] <fetiet> 熔炉里有
-[00:53:01] [Server thread/INFO]: [Not Secure] <ppp204> 帮我拿一下
-[00:53:07] [Server thread/INFO]: [Not Secure] <ppp204> 差8个左右
-[00:53:11] [Server thread/INFO]: fetiet was killed
-[00:53:11] [Server thread/INFO]: [fetiet: Killed fetiet]
-[00:53:16] [Server thread/INFO]: [ppp204: Gave 2 [Bread] to ppp204]
-[00:53:19] [Server thread/INFO]: [fetiet: Teleported fetiet to ppp204]
-[00:53:35] [Server thread/INFO]: [Not Secure] <ppp204> 你造好了我上去
-[00:53:42] [Server thread/INFO]: [Not Secure] <ppp204> 我室友睡觉了我等会也歇逼了
-[00:53:46] [Server thread/INFO]: [Not Secure] <fetiet> 1
-[00:53:50] [Server thread/INFO]: [Not Secure] <ppp204> 康哥我想你了康哥
-[00:55:16] [Server thread/INFO]: [fetiet: Set the time to 1000]
-[00:55:52] [Server thread/INFO]: [Not Secure] <fetiet> 猪灵现在多少血
-[00:55:57] [Server thread/INFO]: [Not Secure] <ppp204> 不知道
-[00:56:02] [Server thread/INFO]: [Not Secure] <ppp204> 应该一样吧
-[00:56:28] [Server thread/INFO]: [Not Secure] <ppp204> 哦16
-[00:56:47] [Server thread/INFO]: [Not Secure] <ppp204> 僵尸猪灵20
-[00:56:59] [Server thread/INFO]: [Not Secure] <fetiet> 我记得很早是24的
-[00:57:12] [Server thread/INFO]: [Not Secure] <fetiet> 42
-[00:57:15] [Server thread/INFO]: [Not Secure] <ppp204> 那我不知道了
-[00:57:18] [Server thread/INFO]: [Not Secure] <ppp204> 42太夸张了
-[00:57:24] [Server thread/INFO]: [Not Secure] <fetiet> 我指的是高度
-[00:57:40] [Server thread/INFO]: [Not Secure] <ppp204> 那不就是20血
-[00:57:44] [Server thread/INFO]: [Not Secure] <ppp204> 2+2x20
-[00:57:48] [Server thread/INFO]: [Not Secure] <fetiet> shide
-[00:57:55] [Server thread/INFO]: [Not Secure] <fetiet> 死亡高度是血量+3.5
-[00:57:58] [Server thread/INFO]: [Not Secure] <fetiet> 基本上是
-[00:58:50] [Server thread/INFO]: [fetiet: Gave 64 [Oak Log] to fetiet]
-[00:59:01] [Server thread/INFO]: [Not Secure] <ppp204> ?
-[00:59:29] [Server thread/INFO]: [Not Secure] <RekoXX> 你们在做啥
-[00:59:42] [Server thread/INFO]: [Not Secure] <fetiet> 在搞猪人塔
-[00:59:46] [Server thread/INFO]: [Not Secure] <ppp204> 他在刷金
-[00:59:56] [Server thread/INFO]: [Not Secure] <ppp204> 我在等他做完我这边继续做
-[01:00:19] [Server thread/INFO]: [Not Secure] <RekoXX> xing
-[01:00:33] [Server thread/INFO]: [Not Secure] <ppp204> 想你了
-[01:00:35] [Server thread/INFO]: [Not Secure] <ppp204> 康神
-[01:02:54] [Server thread/INFO]: [Not Secure] <fetiet> 刻意了
-[01:02:58] [Server thread/INFO]: [Not Secure] <fetiet> 你去挂机试试
-[01:03:43] [Server thread/INFO]: [Not Secure] <RekoXX> xiangnile
-[01:04:32] [Server thread/INFO]: fetiet fell off a ladder
-[01:04:36] [Server thread/INFO]: [Not Secure] <ppp204> ?
-[01:04:48] [Server thread/INFO]: [fetiet: Teleported fetiet to -1117.500000, 66.500000, -2482.500000]
-[01:05:34] [Server thread/INFO]: Steve[local] logged in with entity id 33244 at (-142.25401693137928, 256.0, -311.52767549334493)
-[01:05:34] [Server thread/INFO]: Steve joined the game
-[01:06:07] [Server thread/INFO]: [fetiet: Set the time to 1000]
-[01:06:08] [Server thread/INFO]: [Not Secure] <ppp204> 刷外面了都
-[01:06:22] [Server thread/INFO]: [Not Secure] <fetiet> shayisi
-[01:06:26] [Server thread/INFO]: [ppp204: Teleported fetiet to ppp204]
-[01:06:48] [Server thread/INFO]: [Not Secure] <fetiet> 估计是刷外面了
-[01:07:01] [Server thread/INFO]: [Not Secure] <fetiet> 走出去了
-[01:07:01] [Server thread/INFO]: [Not Secure] <ppp204> 感觉岩浆块不够
-[01:07:18] [Server thread/INFO]: fetiet was killed
-[01:07:18] [Server thread/INFO]: [fetiet: Killed fetiet]
-[01:07:28] [Server thread/INFO]: [Not Secure] <fetiet> 急眼上不会刷怪的
-[01:07:33] [Server thread/INFO]: [fetiet: Teleported fetiet to -1117.500000, 66.500000, -2482.500000]
-[01:07:40] [Server thread/INFO]: [ppp204: Teleported ppp204 to Steve]
-[01:07:45] [Server thread/INFO]: [ppp204: Teleported ppp204 to fetiet]
-[01:08:11] [Server thread/INFO]: [Not Secure] <ppp204> 刷了
-[01:08:18] [Server thread/INFO]: [Not Secure] <ppp204> 自动合成没搞
-[01:08:24] [Server thread/INFO]: [Not Secure] <fetiet> 这个还没
-[01:08:31] [Server thread/INFO]: [Not Secure] <fetiet> 主要还得分裂
-[01:08:36] [Server thread/INFO]: [Not Secure] <fetiet> 分类
-[01:08:52] [Server thread/INFO]: [Not Secure] <ppp204> 那我下了
-[01:08:56] [Server thread/INFO]: [Not Secure] <ppp204> 看电影睡觉了
-[01:08:56] [Server thread/INFO]: [Not Secure] <fetiet> ok
-[01:09:00] [Server thread/INFO]: [Not Secure] <ppp204> 康哥
-[01:09:05] [Server thread/INFO]: [ppp204: Teleported ppp204 to RekoXX]
-[01:09:52] [Server thread/INFO]: Alex[local] logged in with entity id 35140 at (-1117.6180668833117, 40.0, -2478.442501709681)
-[01:09:52] [Server thread/INFO]: Alex joined the game
-[01:10:03] [Server thread/INFO]: [fetiet: Set Alex's game mode to Creative Mode]
-[01:10:22] [Server thread/INFO]: fetiet lost connection: Disconnected
-[01:10:22] [Server thread/INFO]: fetiet left the game
-[01:10:31] [Server thread/INFO]: ppp204 lost connection: Disconnected
-[01:10:31] [Server thread/INFO]: ppp204 left the game
-[01:38:53] [Server thread/INFO]: RekoXX lost connection: Disconnected
-[01:38:53] [Server thread/INFO]: RekoXX left the game
+[00:32:12] [Server thread/INFO]: [Not Secure] [fetiet] 1
+[00:34:00] [Netty Epoll Server IO #23/INFO]: Policy of KittyScan is: online
+[00:34:01] [Server thread/INFO]: KittyScan (/176.65.148.230:57404) lost connection: Disconnected
+[00:34:53] [Server thread/INFO]: [fetiet: Set 0 experience points on fetiet]
+[00:35:00] [Server thread/INFO]: [fetiet: Set 0 experience levels on fetiet]
+[00:36:59] [Server thread/INFO]: [fetiet: Set the weather to clear]
+[00:39:49] [Server thread/INFO]: fetiet lost connection: Disconnected
+[00:39:49] [Server thread/INFO]: fetiet left the game
+[00:54:24] [Server thread/INFO]: ppp204 has made the advancement [What a Deal!]
+[00:56:14] [Server thread/INFO]: ppp204 lost connection: Disconnected
+[00:56:14] [Server thread/INFO]: ppp204 left the game
+[00:57:26] [Netty Epoll Server IO #17/INFO]: Policy of ppp204 is: online
+[00:57:27] [Netty Epoll Server IO #17/INFO]: [STDERR]: java.io.FileNotFoundException: https://api.mojang.com/users/profiles/minecraft/ppp204
+[00:57:27] [Netty Epoll Server IO #17/INFO]: [STDERR]: 	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1696)
+[00:57:27] [Netty Epoll Server IO #17/INFO]: [STDERR]: 	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1302)
+[00:57:27] [Netty Epoll Server IO #17/INFO]: [STDERR]: 	at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:223)
+[00:57:27] [Netty Epoll Server IO #17/INFO]: [STDERR]: 	at java.base/java.net.URL.openStream(URL.java:1263)
+[00:57:27] [Netty Epoll Server IO #17/INFO]: [STDERR]: 	at knot//org.apache.commons.io.IOUtils.toString(IOUtils.java:3223)
+[00:57:27] [Netty Epoll Server IO #17/INFO]: [STDERR]: 	at knot//org.apache.commons.io.IOUtils.toString(IOUtils.java:3198)
+[00:57:27] [Netty Epoll Server IO #17/INFO]: [STDERR]: 	at knot//org.apache.commons.io.IOUtils.toString(IOUtils.java:3312)
+[00:57:27] [Netty Epoll Server IO #17/INFO]: [STDERR]: 	at knot//org.apache.commons.io.IOUtils.toString(IOUtils.java:3271)
+[00:57:27] [Netty Epoll Server IO #17/INFO]: [STDERR]: 	at knot//io.github.satxm.mcwifipnp.UUIDFixer.getOfficialUUID(UUIDFixer.java:204)
+[00:57:27] [Netty Epoll Server IO #17/INFO]: [STDERR]: 	at knot//io.github.satxm.mcwifipnp.UUIDFixer$PolicyHolder.uuidOf(UUIDFixer.java:174)
+[00:57:27] [Netty Epoll Server IO #17/INFO]: [STDERR]: 	at knot//io.github.satxm.mcwifipnp.UUIDFixer.hookEntry(UUIDFixer.java:197)
+[00:57:27] [Netty Epoll Server IO #17/INFO]: [STDERR]: 	at knot//net.minecraft.class_4844.handler$cgn000$mcwifipnp$detour_createOfflinePlayerUUID(class_4844.java:517)
+[00:57:27] [Netty Epoll Server IO #17/INFO]: [STDERR]: 	at knot//net.minecraft.class_4844.method_43344(class_4844.java)
+[00:57:27] [Netty Epoll Server IO #17/INFO]: [STDERR]: 	at knot//net.minecraft.class_4844.method_54140(class_4844.java:126)
+[00:57:27] [Netty Epoll Server IO #17/INFO]: [STDERR]: 	at knot//net.minecraft.class_3248.method_12641(class_3248.java:142)
+[00:57:27] [Netty Epoll Server IO #17/INFO]: [STDERR]: 	at knot//net.minecraft.class_2915.method_12649(class_2915.java:30)
+[00:57:27] [Netty Epoll Server IO #17/INFO]: [STDERR]: 	at knot//net.minecraft.class_2915.method_65081(class_2915.java:11)
+[00:57:27] [Netty Epoll Server IO #17/INFO]: [STDERR]: 	at knot//net.minecraft.class_2535.method_10759(class_2535.java:207)
+[00:57:27] [Netty Epoll Server IO #17/INFO]: [STDERR]: 	at knot//net.minecraft.class_2535.method_10770(class_2535.java:192)
+[00:57:27] [Netty Epoll Server IO #17/INFO]: [STDERR]: 	at knot//net.minecraft.class_2535.channelRead0(class_2535.java:68)
+[00:57:27] [Netty Epoll Server IO #17/INFO]: [STDERR]: 	at knot//io.netty.channel.SimpleChannelInboundHandler.channelRead(SimpleChannelInboundHandler.java:99)
+[00:57:27] [Netty Epoll Server IO #17/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:444)
+[00:57:27] [Netty Epoll Server IO #17/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:420)
+[00:57:27] [Netty Epoll Server IO #17/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:412)
+[00:57:27] [Netty Epoll Server IO #17/INFO]: [STDERR]: 	at knot//io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:346)
+[00:57:27] [Netty Epoll Server IO #17/INFO]: [STDERR]: 	at knot//io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:318)
+[00:57:27] [Netty Epoll Server IO #17/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:444)
+[00:57:27] [Netty Epoll Server IO #17/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:420)
+[00:57:27] [Netty Epoll Server IO #17/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:412)
+[00:57:27] [Netty Epoll Server IO #17/INFO]: [STDERR]: 	at knot//io.netty.handler.flow.FlowControlHandler.dequeue(FlowControlHandler.java:202)
+[00:57:27] [Netty Epoll Server IO #17/INFO]: [STDERR]: 	at knot//io.netty.handler.flow.FlowControlHandler.channelRead(FlowControlHandler.java:164)
+[00:57:27] [Netty Epoll Server IO #17/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:442)
+[00:57:27] [Netty Epoll Server IO #17/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:420)
+[00:57:27] [Netty Epoll Server IO #17/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:412)
+[00:57:27] [Netty Epoll Server IO #17/INFO]: [STDERR]: 	at knot//io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:346)
+[00:57:27] [Netty Epoll Server IO #17/INFO]: [STDERR]: 	at knot//io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:318)
+[00:57:27] [Netty Epoll Server IO #17/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:444)
+[00:57:27] [Netty Epoll Server IO #17/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:420)
+[00:57:27] [Netty Epoll Server IO #17/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:412)
+[00:57:27] [Netty Epoll Server IO #17/INFO]: [STDERR]: 	at knot//io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:289)
+[00:57:27] [Netty Epoll Server IO #17/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:442)
+[00:57:27] [Netty Epoll Server IO #17/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:420)
+[00:57:27] [Netty Epoll Server IO #17/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:412)
+[00:57:27] [Netty Epoll Server IO #17/INFO]: [STDERR]: 	at knot//io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1357)
+[00:57:27] [Netty Epoll Server IO #17/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:440)
+[00:57:27] [Netty Epoll Server IO #17/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:420)
+[00:57:27] [Netty Epoll Server IO #17/INFO]: [STDERR]: 	at knot//io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:868)
+[00:57:27] [Netty Epoll Server IO #17/INFO]: [STDERR]: 	at knot//io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:799)
+[00:57:27] [Netty Epoll Server IO #17/INFO]: [STDERR]: 	at knot//io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:501)
+[00:57:27] [Netty Epoll Server IO #17/INFO]: [STDERR]: 	at knot//io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:399)
+[00:57:27] [Netty Epoll Server IO #17/INFO]: [STDERR]: 	at knot//io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:998)
+[00:57:27] [Netty Epoll Server IO #17/INFO]: [STDERR]: 	at knot//io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+[00:57:27] [Netty Epoll Server IO #17/INFO]: [STDERR]: 	at java.base/java.lang.Thread.run(Thread.java:1474)
+[00:59:55] [Server thread/INFO]: ppp204 (243001f5-8760-3447-a3ee-fe0d3326305e) lost connection: Disconnected
+[00:59:56] [Netty Epoll Server IO #21/INFO]: Policy of ppp204 is: online
+[00:59:57] [Netty Epoll Server IO #21/INFO]: [STDERR]: java.io.FileNotFoundException: https://api.mojang.com/users/profiles/minecraft/ppp204
+[00:59:57] [Netty Epoll Server IO #21/INFO]: [STDERR]: 	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1696)
+[00:59:57] [Netty Epoll Server IO #21/INFO]: [STDERR]: 	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1302)
+[00:59:57] [Netty Epoll Server IO #21/INFO]: [STDERR]: 	at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:223)
+[00:59:57] [Netty Epoll Server IO #21/INFO]: [STDERR]: 	at java.base/java.net.URL.openStream(URL.java:1263)
+[00:59:57] [Netty Epoll Server IO #21/INFO]: [STDERR]: 	at knot//org.apache.commons.io.IOUtils.toString(IOUtils.java:3223)
+[00:59:57] [Netty Epoll Server IO #21/INFO]: [STDERR]: 	at knot//org.apache.commons.io.IOUtils.toString(IOUtils.java:3198)
+[00:59:57] [Netty Epoll Server IO #21/INFO]: [STDERR]: 	at knot//org.apache.commons.io.IOUtils.toString(IOUtils.java:3312)
+[00:59:57] [Netty Epoll Server IO #21/INFO]: [STDERR]: 	at knot//org.apache.commons.io.IOUtils.toString(IOUtils.java:3271)
+[00:59:57] [Netty Epoll Server IO #21/INFO]: [STDERR]: 	at knot//io.github.satxm.mcwifipnp.UUIDFixer.getOfficialUUID(UUIDFixer.java:204)
+[00:59:57] [Netty Epoll Server IO #21/INFO]: [STDERR]: 	at knot//io.github.satxm.mcwifipnp.UUIDFixer$PolicyHolder.uuidOf(UUIDFixer.java:174)
+[00:59:57] [Netty Epoll Server IO #21/INFO]: [STDERR]: 	at knot//io.github.satxm.mcwifipnp.UUIDFixer.hookEntry(UUIDFixer.java:197)
+[00:59:57] [Netty Epoll Server IO #21/INFO]: [STDERR]: 	at knot//net.minecraft.class_4844.handler$cgn000$mcwifipnp$detour_createOfflinePlayerUUID(class_4844.java:517)
+[00:59:57] [Netty Epoll Server IO #21/INFO]: [STDERR]: 	at knot//net.minecraft.class_4844.method_43344(class_4844.java)
+[00:59:57] [Netty Epoll Server IO #21/INFO]: [STDERR]: 	at knot//net.minecraft.class_4844.method_54140(class_4844.java:126)
+[00:59:57] [Netty Epoll Server IO #21/INFO]: [STDERR]: 	at knot//net.minecraft.class_3248.method_12641(class_3248.java:142)
+[00:59:57] [Netty Epoll Server IO #21/INFO]: [STDERR]: 	at knot//net.minecraft.class_2915.method_12649(class_2915.java:30)
+[00:59:57] [Netty Epoll Server IO #21/INFO]: [STDERR]: 	at knot//net.minecraft.class_2915.method_65081(class_2915.java:11)
+[00:59:57] [Netty Epoll Server IO #21/INFO]: [STDERR]: 	at knot//net.minecraft.class_2535.method_10759(class_2535.java:207)
+[00:59:57] [Netty Epoll Server IO #21/INFO]: [STDERR]: 	at knot//net.minecraft.class_2535.method_10770(class_2535.java:192)
+[00:59:57] [Netty Epoll Server IO #21/INFO]: [STDERR]: 	at knot//net.minecraft.class_2535.channelRead0(class_2535.java:68)
+[00:59:57] [Netty Epoll Server IO #21/INFO]: [STDERR]: 	at knot//io.netty.channel.SimpleChannelInboundHandler.channelRead(SimpleChannelInboundHandler.java:99)
+[00:59:57] [Netty Epoll Server IO #21/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:444)
+[00:59:57] [Netty Epoll Server IO #21/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:420)
+[00:59:57] [Netty Epoll Server IO #21/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:412)
+[00:59:57] [Netty Epoll Server IO #21/INFO]: [STDERR]: 	at knot//io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:346)
+[00:59:57] [Netty Epoll Server IO #21/INFO]: [STDERR]: 	at knot//io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:318)
+[00:59:57] [Netty Epoll Server IO #21/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:444)
+[00:59:57] [Netty Epoll Server IO #21/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:420)
+[00:59:57] [Netty Epoll Server IO #21/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:412)
+[00:59:57] [Netty Epoll Server IO #21/INFO]: [STDERR]: 	at knot//io.netty.handler.flow.FlowControlHandler.dequeue(FlowControlHandler.java:202)
+[00:59:57] [Netty Epoll Server IO #21/INFO]: [STDERR]: 	at knot//io.netty.handler.flow.FlowControlHandler.channelRead(FlowControlHandler.java:164)
+[00:59:57] [Netty Epoll Server IO #21/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:442)
+[00:59:57] [Netty Epoll Server IO #21/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:420)
+[00:59:57] [Netty Epoll Server IO #21/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:412)
+[00:59:57] [Netty Epoll Server IO #21/INFO]: [STDERR]: 	at knot//io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:346)
+[00:59:57] [Netty Epoll Server IO #21/INFO]: [STDERR]: 	at knot//io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:318)
+[00:59:57] [Netty Epoll Server IO #21/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:444)
+[00:59:57] [Netty Epoll Server IO #21/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:420)
+[00:59:57] [Netty Epoll Server IO #21/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:412)
+[00:59:57] [Netty Epoll Server IO #21/INFO]: [STDERR]: 	at knot//net.minecraft.class_3238.channelRead(class_3238.java:74)
+[00:59:57] [Netty Epoll Server IO #21/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:444)
+[00:59:57] [Netty Epoll Server IO #21/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:420)
+[00:59:57] [Netty Epoll Server IO #21/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:412)
+[00:59:57] [Netty Epoll Server IO #21/INFO]: [STDERR]: 	at knot//io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:289)
+[00:59:57] [Netty Epoll Server IO #21/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:442)
+[00:59:57] [Netty Epoll Server IO #21/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:420)
+[00:59:57] [Netty Epoll Server IO #21/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:412)
+[00:59:57] [Netty Epoll Server IO #21/INFO]: [STDERR]: 	at knot//io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1357)
+[00:59:57] [Netty Epoll Server IO #21/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:440)
+[00:59:57] [Netty Epoll Server IO #21/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:420)
+[00:59:57] [Netty Epoll Server IO #21/INFO]: [STDERR]: 	at knot//io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:868)
+[00:59:57] [Netty Epoll Server IO #21/INFO]: [STDERR]: 	at knot//io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:799)
+[00:59:57] [Netty Epoll Server IO #21/INFO]: [STDERR]: 	at knot//io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:501)
+[00:59:57] [Netty Epoll Server IO #21/INFO]: [STDERR]: 	at knot//io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:399)
+[00:59:57] [Netty Epoll Server IO #21/INFO]: [STDERR]: 	at knot//io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:998)
+[00:59:57] [Netty Epoll Server IO #21/INFO]: [STDERR]: 	at knot//io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+[00:59:57] [Netty Epoll Server IO #21/INFO]: [STDERR]: 	at java.base/java.lang.Thread.run(Thread.java:1474)
+[01:00:25] [Server thread/INFO]: ppp204 (243001f5-8760-3447-a3ee-fe0d3326305e) lost connection: Disconnected
+[01:19:02] [Netty Epoll Server IO #13/ERROR]: Error sending packet clientbound/minecraft:disconnect
+io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/minecraft:disconnect'
+	at knot/net.minecraft.class_9136.method_56426(class_9136.java:50) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_9136.encode(class_9136.java:14) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2545.method_10838(class_2545.java:26) [server-intermediary.jar:?]
+	at knot/net.minecraft.class_2545.encode(class_2545.java:12) [server-intermediary.jar:?]
+	at knot/io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:107) [netty-codec-4.1.118.Final.jar:?]
+	at knot/io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:893) [netty-transport-4.1.118.Final.jar:?]
+	at knot/io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:875) [netty-transport-4.1.118.Final.jar:?]
+	at knot/io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:984) [netty-transport-4.1.118.Final.jar:?]
+	at knot/io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:868) [netty-transport-4.1.118.Final.jar:?]
+	at knot/io.netty.channel.ChannelOutboundHandlerAdapter.write(ChannelOutboundHandlerAdapter.java:113) [netty-transport-4.1.118.Final.jar:?]
+	at knot/net.minecraft.class_2535$2.write(class_2535.java:524) [server-intermediary.jar:?]
+	at knot/io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:893) [netty-transport-4.1.118.Final.jar:?]
+	at knot/io.netty.channel.AbstractChannelHandlerContext.invokeWriteAndFlush(AbstractChannelHandlerContext.java:956) [netty-transport-4.1.118.Final.jar:?]
+	at knot/io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:982) [netty-transport-4.1.118.Final.jar:?]
+	at knot/io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:950) [netty-transport-4.1.118.Final.jar:?]
+	at knot/io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:1000) [netty-transport-4.1.118.Final.jar:?]
+	at knot/io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:974) [netty-transport-4.1.118.Final.jar:?]
+	at knot/io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:305) [netty-transport-4.1.118.Final.jar:?]
+	at knot/net.minecraft.class_2535.method_36942(class_2535.java:350) [server-intermediary.jar:?]
+	at knot/net.minecraft.class_2535.method_10764(class_2535.java:342) [server-intermediary.jar:?]
+	at knot/net.minecraft.class_2535.method_52906(class_2535.java:324) [server-intermediary.jar:?]
+	at knot/net.minecraft.class_2535.method_10752(class_2535.java:318) [server-intermediary.jar:?]
+	at knot/net.minecraft.class_2535.exceptionCaught(class_2535.java:169) [server-intermediary.jar:?]
+	at knot/io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:346) [netty-transport-4.1.118.Final.jar:?]
+	at knot/io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:325) [netty-transport-4.1.118.Final.jar:?]
+	at knot/io.netty.channel.AbstractChannelHandlerContext.fireExceptionCaught(AbstractChannelHandlerContext.java:317) [netty-transport-4.1.118.Final.jar:?]
+	at knot/io.netty.channel.DefaultChannelPipeline$HeadContext.exceptionCaught(DefaultChannelPipeline.java:1324) [netty-transport-4.1.118.Final.jar:?]
+	at knot/io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:346) [netty-transport-4.1.118.Final.jar:?]
+	at knot/io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:325) [netty-transport-4.1.118.Final.jar:?]
+	at knot/io.netty.channel.DefaultChannelPipeline.fireExceptionCaught(DefaultChannelPipeline.java:856) [netty-transport-4.1.118.Final.jar:?]
+	at knot/io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.handleReadException(AbstractEpollStreamChannel.java:727) [netty-transport-classes-epoll-4.1.118.Final.jar:?]
+	at knot/io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:825) [netty-transport-classes-epoll-4.1.118.Final.jar:?]
+	at knot/io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:501) [netty-transport-classes-epoll-4.1.118.Final.jar:?]
+	at knot/io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:399) [netty-transport-classes-epoll-4.1.118.Final.jar:?]
+	at knot/io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:998) [netty-common-4.1.118.Final.jar:?]
+	at knot/io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) [netty-common-4.1.118.Final.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1474) [?:?]
