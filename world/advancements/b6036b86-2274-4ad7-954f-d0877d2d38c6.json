@@ -14,11 +14,15 @@
       "minecraft:taiga": "2025-12-03 22:01:24 +0800",
       "minecraft:sparse_jungle": "2025-12-02 10:48:39 +0800",
       "minecraft:river": "2025-11-30 00:34:57 +0800",
+      "minecraft:lukewarm_ocean": "2025-12-04 23:47:42 +0800",
+      "minecraft:lush_caves": "2025-12-04 23:43:05 +0800",
       "minecraft:dripstone_caves": "2025-12-01 00:20:52 +0800",
       "minecraft:old_growth_birch_forest": "2025-12-02 10:45:51 +0800",
       "minecraft:deep_dark": "2025-12-01 12:44:13 +0800",
+      "minecraft:ocean": "2025-12-04 23:45:04 +0800",
       "minecraft:cherry_grove": "2025-12-01 12:31:47 +0800",
       "minecraft:sunflower_plains": "2025-12-01 12:13:47 +0800",
+      "minecraft:meadow": "2025-12-04 23:17:54 +0800",
       "minecraft:birch_forest": "2025-11-30 00:34:17 +0800",
       "minecraft:bamboo_jungle": "2025-12-02 22:55:47 +0800",
       "minecraft:plains": "2025-11-30 00:30:42 +0800"
@@ -751,10 +755,12 @@
       "minecraft:blaze": "2025-12-03 16:54:14 +0800",
       "minecraft:pillager": "2025-12-03 22:06:15 +0800",
       "minecraft:skeleton": "2025-12-01 12:00:12 +0800",
+      "minecraft:phantom": "2025-12-04 20:09:59 +0800",
       "minecraft:zombified_piglin": "2025-12-03 08:27:59 +0800",
       "minecraft:wither_skeleton": "2025-12-03 16:53:58 +0800",
       "minecraft:piglin": "2025-12-01 13:18:36 +0800",
       "minecraft:silverfish": "2025-12-03 22:42:47 +0800",
+      "minecraft:enderman": "2025-12-04 16:46:33 +0800",
       "minecraft:spider": "2025-12-01 11:58:53 +0800",
       "minecraft:zombie": "2025-12-01 00:36:42 +0800",
       "minecraft:creeper": "2025-12-01 11:56:07 +0800",
@@ -1609,6 +1615,7 @@
       "minecraft:cow": "2025-12-01 17:33:07 +0800",
       "minecraft:wolf": "2025-12-01 13:10:12 +0800",
       "minecraft:panda": "2025-12-02 22:58:22 +0800",
+      "minecraft:horse": "2025-12-05 00:30:17 +0800",
       "minecraft:turtle": "2025-12-02 10:55:50 +0800",
       "minecraft:bee": "2025-12-03 22:51:21 +0800"
     },
@@ -2723,6 +2730,7 @@
   },
   "minecraft:husbandry/complete_catalogue": {
     "criteria": {
+      "minecraft:siamese": "2025-12-05 01:45:56 +0800",
       "minecraft:all_black": "2025-12-02 12:24:41 +0800"
     },
     "done": false
@@ -3183,12 +3191,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/redstone": {
-    "criteria": {
-      "has_redstone_block": "2025-12-03 23:56:59 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2025-12-03 23:36:01 +0800"
@@ -3204,6 +3206,150 @@
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2025-12-03 23:36:01 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2025-12-03 23:56:59 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2025-12-04 16:05:48 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2025-12-04 16:05:48 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-12-04 16:05:48 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2025-12-04 16:05:48 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2025-12-04 16:05:48 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-12-04 16:05:48 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-12-04 16:05:48 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2025-12-04 16:05:48 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-12-04 16:05:48 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_sandstone": {
+    "criteria": {
+      "has_sand": "2025-12-04 16:13:27 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/suspicious_stew_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2025-12-04 16:22:57 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2025-12-04 16:22:57 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/beehive": {
+    "criteria": {
+      "has_honeycomb": "2025-12-04 19:48:25 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/honeycomb_block": {
+    "criteria": {
+      "has_honeycomb": "2025-12-04 19:48:25 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2025-12-04 22:56:59 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2025-12-04 23:08:08 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2025-12-04 23:08:08 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2025-12-04 23:44:46 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2025-12-04 23:44:46 +0800"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2025-12-04 23:44:50 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/eye_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-12-04 23:51:09 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/eye_armor_trim_smithing_template": {
+    "criteria": {
+      "has_eye_armor_trim_smithing_template": "2025-12-04 23:51:09 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/terracotta": {
+    "criteria": {
+      "has_clay_block": "2025-12-05 00:11:02 +0800"
     },
     "done": true
   },
