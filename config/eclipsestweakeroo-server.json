@@ -1,17 +1,17 @@
 {
   "toggles": {
     "disableEntityCollisions": false,
-    "tweakStepHeight": false,
-    "tweakGravity": false,
-    "disableHorseJumpCharge": false,
-    "tweakJumpVelocity": false,
-    "tweakBoats_spider": false,
-    "disableUseItemSlowdown": false,
-    "disableKnockback": false,
     "tweakSlippery": false,
-    "tweakCreativeElytraFlight": false,
+    "tweakJumpVelocity": false,
+    "disableJumpDelay": false,
     "tweakBoats_jump": false,
-    "disableJumpDelay": false
+    "tweakStepHeight": false,
+    "disableUseItemSlowdown": false,
+    "tweakBoats_spider": false,
+    "tweakCreativeElytraFlight": false,
+    "disableHorseJumpCharge": false,
+    "disableKnockback": false,
+    "tweakGravity": false
   },
   "operators_exempt": false
 }
