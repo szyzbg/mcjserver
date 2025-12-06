@@ -780,6 +780,7 @@
       "minecraft:silverfish": "2025-12-03 22:42:47 +0800",
       "minecraft:enderman": "2025-12-04 16:46:33 +0800",
       "minecraft:magma_cube": "2025-12-05 14:00:21 +0800",
+      "minecraft:endermite": "2025-12-06 23:36:32 +0800",
       "minecraft:spider": "2025-12-01 11:58:53 +0800",
       "minecraft:zombie": "2025-12-01 00:36:42 +0800",
       "minecraft:creeper": "2025-12-01 11:56:07 +0800",
@@ -3948,6 +3949,72 @@
   "nova_structures:adventure/find_shrine": {
     "criteria": {
       "shrine_combat": "2025-12-06 00:15:01 +0800"
+    },
+    "done": true
+  },
+  "nova_structures:end/find_end_castle": {
+    "criteria": {
+      "end_castle": "2025-12-06 23:31:06 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/dye_black_harness": {
+    "criteria": {
+      "has_needed_dye": "2025-12-06 23:33:52 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dye_black_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-12-06 23:33:52 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/black_bundle": {
+    "criteria": {
+      "has_black_dye": "2025-12-06 23:33:52 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dye_black_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-12-06 23:33:52 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_black_dye": "2025-12-06 23:33:52 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_candle": {
+    "criteria": {
+      "has_black_dye": "2025-12-06 23:33:52 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_black_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-12-06 23:33:52 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/under_lock_and_key": {
+    "criteria": {
+      "under_lock_and_key": "2025-12-06 23:37:33 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2025-12-06 23:38:13 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2025-12-06 23:38:13 +0800"
     },
     "done": true
   },
